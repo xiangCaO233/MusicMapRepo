@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MMMProject version="v0.1">
+    <ProjectName>RG</ProjectName>
+    <AudioConfig>
+        <DeviceName>Family 17h/19h/1ah HD Audio Controller 模拟立体声</DeviceName>
+        <VolumeConfig global="0.20000000000000001" music="0.75" effect="1" />
+    </AudioConfig>
+    <Sizes objwidth-scale="1" objheight-scale="1" />
+    <Canvas timeline-zoom="1.2500000000000002" preview-time-scale="5" default-divisors="2" />
+</MMMProject>
