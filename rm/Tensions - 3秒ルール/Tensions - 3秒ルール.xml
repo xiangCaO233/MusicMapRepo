@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MMMProject version="v0.1">
+    <ProjectName>Tensions - 3秒ルール</ProjectName>
+    <AudioConfig>
+        <DeviceName>MCHOSE V9 PRO HEADSET Analog Stereo</DeviceName>
+        <VolumeConfig global="0.20000000000000001" music="0.5" effect="0.69999999999999996" />
+    </AudioConfig>
+    <Sizes objwidth-scale="1" objheight-scale="1" />
+    <Canvas timeline-zoom="1.22" preview-time-scale="5.4000000000000004" default-divisors="4" />
+</MMMProject>
