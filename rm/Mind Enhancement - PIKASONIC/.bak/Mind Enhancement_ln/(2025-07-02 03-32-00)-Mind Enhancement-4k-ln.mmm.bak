@@ -1,0 +1,2581 @@
+{
+    "artist": "PIKASONIC",
+    "artist-unicode": "PIKASONIC",
+    "author": "xiang",
+    "bg": "Mind Enhancement - PIKASONIC.jpg",
+    "maplength": 143333,
+    "music": "Mind Enhancement - PIKASONIC.mp3",
+    "notes": [
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 1,
+            "time": 838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 2,
+            "time": 1005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 0,
+            "time": 1338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 1338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 2,
+            "time": 1505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 501,
+            "metas": null,
+            "orbit": 1,
+            "time": 1671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 2005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 2,
+            "time": 2005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 2172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 2338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 1,
+            "time": 2505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 2505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 2838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 3005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 3005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 3172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 0,
+            "time": 3338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 3338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 2,
+            "time": 3505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 1,
+            "time": 3672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 4005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 4005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 1,
+            "time": 4172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 0,
+            "time": 4338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 4338,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 4672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 4672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 2,
+            "time": 4838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 5005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 0,
+            "time": 5172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 5172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 5505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 5671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 5671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 5838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 5838,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 666,
+            "metas": null,
+            "orbit": 0,
+            "time": 6005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 6005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 2,
+            "time": 6171,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 6338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 6505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 667,
+            "metas": null,
+            "orbit": 3,
+            "time": 6671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 6671,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 1,
+            "time": 6838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 2,
+            "time": 7005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 7171,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 667,
+            "metas": null,
+            "orbit": 0,
+            "time": 7338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 7338,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 2,
+            "time": 7505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 7671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 500,
+            "metas": null,
+            "orbit": 1,
+            "time": 7838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 2,
+            "time": 7838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 8005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 3,
+            "time": 8171,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 8338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 8338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 8505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 8505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 2,
+            "time": 8671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 501,
+            "metas": null,
+            "orbit": 0,
+            "time": 8671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 2,
+            "time": 8838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 9005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 3,
+            "time": 9338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 1,
+            "time": 9338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 0,
+            "time": 9338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 9505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 2,
+            "time": 9672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 500,
+            "metas": null,
+            "orbit": 0,
+            "time": 9838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 3,
+            "time": 9838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 1,
+            "time": 10172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 10172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 1,
+            "time": 10338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 3,
+            "time": 10338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 1,
+            "time": 10505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 10505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 11005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 11005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 11088,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 1,
+            "time": 11172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 11255,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 11338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 0,
+            "time": 11338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 11338,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 11505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 11672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 11672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 11755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 11838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 12005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 12005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 12172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 12172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 0,
+            "time": 12338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 12338,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 12505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 0,
+            "time": 12505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 12672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 12672,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 12838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 13005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 13005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 2,
+            "time": 13172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 0,
+            "time": 13338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 3,
+            "time": 13338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 13422,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 13505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 13588,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 13672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 13672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 1,
+            "time": 13755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 13838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 13922,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 14005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 14005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 14088,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 14172,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 14255,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 14255,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 14338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 14338,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 14422,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 14505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 14588,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 14672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 14672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 14755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 14838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 14922,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 15005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 15005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 15088,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 15172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 15172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 15255,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 15338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 15422,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 15505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 15505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 15588,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 15672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 15672,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 15755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 15838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 15922,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 16005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 16005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 16172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 16172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 16338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 16338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 16505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 16588,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 16588,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 16672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 0,
+            "time": 16672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 3,
+            "time": 16838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 16838,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 16838,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 0,
+            "time": 17005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 3,
+            "time": 17005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 0,
+            "time": 17172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 17172,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 17172,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 3,
+            "time": 17338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 0,
+            "time": 17338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 1,
+            "time": 17505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 17505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 17505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 17672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 2,
+            "time": 17838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 1,
+            "time": 17838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 17838,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 0,
+            "time": 18005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 18005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 0,
+            "time": 18172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 18172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 18172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 18172,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 18338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 1,
+            "time": 18422,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 18505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 18588,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 2,
+            "time": 18672,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 18755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 18755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 1,
+            "time": 18838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 18922,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 19005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 19005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 2,
+            "time": 19088,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 19172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 19255,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 0,
+            "time": 19338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 1,
+            "time": 19338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 19422,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 19505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 19505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 19588,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 19588,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 19672,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 19755,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 19838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 2,
+            "time": 19838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 0,
+            "time": 19922,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 20005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 20005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 20088,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 20172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 2,
+            "time": 20172,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 20255,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 20338,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 1,
+            "time": 20421,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 20421,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 20505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 0,
+            "time": 20505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 20588,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 20671,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 20755,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 0,
+            "time": 20838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 20838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 1,
+            "time": 20921,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 3,
+            "time": 20921,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 0,
+            "time": 21005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 21005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 1,
+            "time": 21171,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 2,
+            "time": 21171,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 21255,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 0,
+            "time": 21255,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 1,
+            "time": 21338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 21338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 21505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 1,
+            "time": 21505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 21505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 21671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 0,
+            "time": 21671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 21671,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 3,
+            "time": 21838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 21838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 21838,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 0,
+            "time": 22005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 22005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 22005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 1,
+            "time": 22088,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 22171,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 22171,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 1,
+            "time": 22255,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 22338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 2,
+            "time": 22421,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 22505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 22505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 22588,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 1,
+            "time": 22671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 22671,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 22755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 22838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 22838,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 2,
+            "time": 22921,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 23005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 23005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 23088,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 23171,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 23171,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 0,
+            "time": 23338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 23338,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 23421,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 23505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 23505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 500,
+            "metas": null,
+            "orbit": 2,
+            "time": 23671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 23671,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 23755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 23838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 23838,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 0,
+            "time": 24005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 24005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 24171,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 24171,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 24338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 24505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 24505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 24588,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 24671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 3,
+            "time": 24671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 24755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 24838,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 24921,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 0,
+            "time": 25005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 25005,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 25088,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 25171,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 25255,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 25338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 25338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 25421,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 25505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 25588,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 25671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 3,
+            "time": 25671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 25838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 25921,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 3,
+            "time": 26005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 0,
+            "time": 26005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 26088,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 26171,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 26255,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 26338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 26421,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 3,
+            "time": 26505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 26505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 26588,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 1,
+            "time": 26671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 26755,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 3,
+            "time": 26755,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 250,
+            "metas": null,
+            "orbit": 0,
+            "time": 26838,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 84,
+            "metas": null,
+            "orbit": 3,
+            "time": 26921,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 26921,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 166,
+            "metas": null,
+            "orbit": 1,
+            "time": 27005,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 27088,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 3,
+            "time": 27171,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 0,
+            "time": 27171,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 1,
+            "time": 27255,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 0,
+            "time": 27338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 83,
+            "metas": null,
+            "orbit": 2,
+            "time": 27338,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 1,
+            "time": 27505,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "metas": null,
+            "orbit": 2,
+            "time": 27505,
+            "type": "note"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 0,
+            "time": 27671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 167,
+            "metas": null,
+            "orbit": 2,
+            "time": 27671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 334,
+            "metas": null,
+            "orbit": 3,
+            "time": 27671,
+            "type": "hold"
+        },
+        {
+            "complex-info": 0,
+            "duration": 333,
+            "metas": null,
+            "orbit": 2,
+            "time": 28005,
+            "type": "hold"
+        }
+    ],
+    "orbits": 4,
+    "preference-bpm": 180.0,
+    "timings": [
+        {
+            "basebpm": 180.0,
+            "bpm": 180.0,
+            "isbase": true,
+            "time": 672
+        }
+    ],
+    "title": "Mind Enhancement",
+    "title-unicode": "Mind Enhancement",
+    "version": "ln"
+}

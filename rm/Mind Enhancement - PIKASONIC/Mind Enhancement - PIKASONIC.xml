@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MMMProject version="v0.1">
+    <ProjectName>Mind Enhancement - PIKASONIC</ProjectName>
+    <AudioConfig>
+        <DeviceName>MCHOSE V9 PRO HEADSET Analog Stereo</DeviceName>
+        <VolumeConfig global="0.300000012" music="0.75" effect="0.59999999999999998" />
+    </AudioConfig>
+    <Sizes objwidth-scale="1" objheight-scale="1" />
+    <Canvas timeline-zoom="1" preview-time-scale="5" default-divisors="4" />
+</MMMProject>
