@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mproject>
+	<name>Tensions - Scandal</name>
+	<canvas-layout>
+		<maintrack-layout top="0" right="0.75" bottom="1" left="0.25" />
+		<judgeline>1</judgeline>
+		<object-scales width="1" height="1" />
+	</canvas-layout>
+</mproject>

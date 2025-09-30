@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mproject>
+	<name>Contrapasso -paradiso-</name>
+	<canvas-layout>
+		<maintrack-layout top="0.0500000007" right="0.75" bottom="0.949999988" left="0.25" />
+		<judgeline>0.800000012</judgeline>
+		<object-scales width="1" height="1" />
+	</canvas-layout>
+</mproject>
