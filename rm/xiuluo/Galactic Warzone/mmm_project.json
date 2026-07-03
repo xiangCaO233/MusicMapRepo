@@ -1,0 +1,49 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 0.75,
+                "volume": 0.5
+            },
+            "m_id": "GALACTIC WARZONE.mp3",
+            "m_path": "GALACTIC WARZONE.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "",
+            "m_filePath": "GALACTIC WARZONE-4k-ez.mmm",
+            "m_name": "GALACTIC WARZONE-4k-ez.mmm"
+        },
+        {
+            "m_audioTrackId": "GALACTIC WARZONE.mp3",
+            "m_filePath": "GALACTIC WARZONE_4k_ez.imd",
+            "m_name": "GALACTIC WARZONE_4k_ez.imd"
+        },
+        {
+            "m_audioTrackId": "GALACTIC WARZONE.mp3",
+            "m_filePath": "GALACTIC WARZONE_4k_ez.mc",
+            "m_name": "GALACTIC WARZONE_4k_ez.mc"
+        }
+    ],
+    "m_excludedAudioPaths": [],
+    "m_excludedBeatmapPaths": [],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Galactic Warzone",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

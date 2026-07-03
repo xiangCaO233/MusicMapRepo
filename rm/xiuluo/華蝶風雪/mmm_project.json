@@ -1,0 +1,28 @@
+{
+    "m_audioResources": [
+        {
+            "m_id": "華蝶風雪.mp3",
+            "m_path": "華蝶風雪.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "華蝶風雪.mp3",
+            "m_filePath": "華蝶風雪_4k_hd.imd",
+            "m_name": "華蝶風雪_4k_hd.imd"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "華蝶風雪",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

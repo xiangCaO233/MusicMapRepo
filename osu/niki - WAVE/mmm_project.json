@@ -1,0 +1,39 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "wave.mp3",
+            "m_path": "wave.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "wave.mp3",
+            "m_filePath": "niki - WAVE (Benson_) [Electronic].osu",
+            "m_name": "niki - WAVE (Benson_) [Electronic].osu"
+        }
+    ],
+    "m_excludedAudioPaths": [],
+    "m_excludedBeatmapPaths": [],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "niki - WAVE",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

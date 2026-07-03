@@ -1,0 +1,307 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "amethyst.mp3",
+            "m_path": "Amethyst/amethyst.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Aquamarine.mp3",
+            "m_path": "Aquamarine/Aquamarine.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Black Lair.mp3",
+            "m_path": "Black Lair/Black Lair.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Elemental Creation.mp3",
+            "m_path": "Elemental Creation/Elemental Creation.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Flashback Flicker.mp3",
+            "m_path": "Flashback Flicker/Flashback Flicker.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "GALACTIC WARZONE.mp3",
+            "m_path": "Galactic Warzone/GALACTIC WARZONE.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Redemptione.mp3",
+            "m_path": "Redemptione/Redemptione.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Ré Ré.mp3",
+            "m_path": "Ré Ré/Ré Ré.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "淵底のグレイ・ユークロニア.mp3",
+            "m_path": "淵底のグレイ・ユークロニア/淵底のグレイ・ユークロニア.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "華蝶風雪.mp3",
+            "m_path": "華蝶風雪/華蝶風雪.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Fracture Ray.mp3",
+            "m_path": "Fracture Ray.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Re-VeLΔTiØN ～光道ト破壊ノ双白翼～.mp3",
+            "m_path": "Re-VeLΔTiØN ～光道ト破壊ノ双白翼～.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "work.wav",
+            "m_path": "work.wav",
+            "m_type": "Effect"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "amethyst.mp3",
+            "m_filePath": "Amethyst/amethyst_4k_ez.imd",
+            "m_name": "amethyst_4k_ez.imd"
+        },
+        {
+            "m_audioTrackId": "amethyst.mp3",
+            "m_filePath": "Amethyst/amethyst_4k_ez.mc",
+            "m_name": "amethyst_4k_ez.mc"
+        },
+        {
+            "m_audioTrackId": "Aquamarine.mp3",
+            "m_filePath": "Aquamarine/Aquamarine_4k_hd.imd",
+            "m_name": "Aquamarine_4k_hd.imd"
+        },
+        {
+            "m_audioTrackId": "Black Lair.mp3",
+            "m_filePath": "Black Lair/Black Lair_4k_hd.imd",
+            "m_name": "Black Lair_4k_hd.imd"
+        },
+        {
+            "m_audioTrackId": "Elemental Creation.mp3",
+            "m_filePath": "Elemental Creation/Elemental Creation_4k_hd.imd",
+            "m_name": "Elemental Creation_4k_hd.imd"
+        },
+        {
+            "m_audioTrackId": "Flashback Flicker.mp3",
+            "m_filePath": "Flashback Flicker/Flashback Flicker_4k_ez.imd",
+            "m_name": "Flashback Flicker_4k_ez.imd"
+        },
+        {
+            "m_audioTrackId": "Flashback Flicker.mp3",
+            "m_filePath": "Flashback Flicker/Flashback Flicker_4k_ez.mc",
+            "m_name": "Flashback Flicker_4k_ez.mc"
+        },
+        {
+            "m_audioTrackId": "",
+            "m_filePath": "Galactic Warzone/GALACTIC WARZONE-4k-ez.mmm",
+            "m_name": "GALACTIC WARZONE-4k-ez.mmm"
+        },
+        {
+            "m_audioTrackId": "GALACTIC WARZONE.mp3",
+            "m_filePath": "Galactic Warzone/GALACTIC WARZONE_4k_ez.imd",
+            "m_name": "GALACTIC WARZONE_4k_ez.imd"
+        },
+        {
+            "m_audioTrackId": "GALACTIC WARZONE.mp3",
+            "m_filePath": "Galactic Warzone/GALACTIC WARZONE_4k_ez.mc",
+            "m_name": "GALACTIC WARZONE_4k_ez.mc"
+        },
+        {
+            "m_audioTrackId": "Redemptione.mp3",
+            "m_filePath": "Redemptione/Redemptione_4k_hd.imd",
+            "m_name": "Redemptione_4k_hd.imd"
+        },
+        {
+            "m_audioTrackId": "Ré Ré.mp3",
+            "m_filePath": "Ré Ré/Ré Ré_4k_ez.imd",
+            "m_name": "Ré Ré_4k_ez.imd"
+        },
+        {
+            "m_audioTrackId": "Ré Ré.mp3",
+            "m_filePath": "Ré Ré/Ré Ré.osu",
+            "m_name": "Ré Ré.osu"
+        },
+        {
+            "m_audioTrackId": "淵底のグレイ・ユークロニア.mp3",
+            "m_filePath": "淵底のグレイ・ユークロニア/淵底のグレイ・ユークロニア_4k_ez.imd",
+            "m_name": "淵底のグレイ・ユークロニア_4k_ez.imd"
+        },
+        {
+            "m_audioTrackId": "淵底のグレイ・ユークロニア.mp3",
+            "m_filePath": "淵底のグレイ・ユークロニア/淵底のグレイ・ユークロニア_4k_ez.mc",
+            "m_name": "淵底のグレイ・ユークロニア_4k_ez.mc"
+        },
+        {
+            "m_audioTrackId": "淵底のグレイ・ユークロニア.mp3",
+            "m_filePath": "淵底のグレイ・ユークロニア/淵底のグレイ・ユークロニア.mmm",
+            "m_name": "淵底のグレイ・ユークロニア.mmm"
+        },
+        {
+            "m_audioTrackId": "華蝶風雪.mp3",
+            "m_filePath": "華蝶風雪/華蝶風雪_4k_hd.imd",
+            "m_name": "華蝶風雪_4k_hd.imd"
+        },
+        {
+            "m_audioTrackId": "Fracture Ray.mp3",
+            "m_filePath": "Fracture Ray_4k_ez.imd",
+            "m_name": "Fracture Ray_4k_ez.imd"
+        },
+        {
+            "m_audioTrackId": "Re-VeLΔTiØN ～光道ト破壊ノ双白翼～.mp3",
+            "m_filePath": "Re-VeLΔTiØN ～光道ト破壊ノ双白翼～_4k_ez.imd",
+            "m_name": "Re-VeLΔTiØN ～光道ト破壊ノ双白翼～_4k_ez.imd"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "xiuluo",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

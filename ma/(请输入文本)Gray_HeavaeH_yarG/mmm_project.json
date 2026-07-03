@@ -1,0 +1,57 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "gray(1).ogg",
+            "m_path": "gray(1).ogg",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "gray111.ogg",
+            "m_path": "gray111.ogg",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "gray(1).ogg",
+            "m_filePath": "1764823346.mc",
+            "m_name": "必扬的 Lv.12"
+        },
+        {
+            "m_audioTrackId": "gray111.ogg",
+            "m_filePath": "1765021807.mc",
+            "m_name": "1765021807.mc"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "(请输入文本)Gray_HeavaeH_yarG",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

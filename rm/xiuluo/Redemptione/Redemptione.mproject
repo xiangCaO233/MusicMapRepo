@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mproject>
+	<name>Redemptione</name>
+	<canvas-layout>
+		<maintrack-layout top="0" right="0.819999993" bottom="1" left="0.289999992" />
+		<judgeline>0.680000007</judgeline>
+		<object-scales width="1" height="1" />
+	</canvas-layout>
+</mproject>

@@ -1,0 +1,67 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Fracture Ray.mp3",
+            "m_path": "Fracture Ray.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Fracture Ray.mp3",
+            "m_filePath": "Sakuzyo - Fracture Ray (Kuo Kyoka) [CS' Forbidden Memories].osu",
+            "m_name": "Sakuzyo - Fracture Ray (Kuo Kyoka) [CS' Forbidden Memories].osu"
+        },
+        {
+            "m_audioTrackId": "Fracture Ray.mp3",
+            "m_filePath": "Sakuzyo - Fracture Ray (Kuo Kyoka) [CS' Present].osu",
+            "m_name": "Sakuzyo - Fracture Ray (Kuo Kyoka) [CS' Present].osu"
+        },
+        {
+            "m_audioTrackId": "Fracture Ray.mp3",
+            "m_filePath": "Sakuzyo - Fracture Ray (Kuo Kyoka) [Future].osu",
+            "m_name": "Sakuzyo - Fracture Ray (Kuo Kyoka) [Future].osu"
+        },
+        {
+            "m_audioTrackId": "Fracture Ray.mp3",
+            "m_filePath": "Sakuzyo - Fracture Ray (Kuo Kyoka) [Past].osu",
+            "m_name": "Sakuzyo - Fracture Ray (Kuo Kyoka) [Past].osu"
+        },
+        {
+            "m_audioTrackId": "Fracture Ray.mp3",
+            "m_filePath": "[o!m] [7k] CS' Present.mmm",
+            "m_name": "[o!m] [7k] CS' Present.mmm"
+        },
+        {
+            "m_audioTrackId": "Fracture Ray.mp3",
+            "m_filePath": "[o!m] [7k] CS' Forbidden Memories.mmm",
+            "m_name": "[o!m] [7k] CS' Forbidden Memories.mmm"
+        },
+        {
+            "m_audioTrackId": "",
+            "m_filePath": "[o!m] [7k] CS' Present.imd",
+            "m_name": "[o!m] [7k] CS' Present.imd"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "889405 Sakuzyo - Fracture Ray",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

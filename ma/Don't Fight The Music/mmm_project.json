@@ -1,0 +1,42 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Don't Fight The Music.ogg",
+            "m_path": "Don't Fight The Music.ogg",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Don't Fight The Music.ogg",
+            "m_filePath": "6K_master.mc",
+            "m_name": "6K_master.mc"
+        },
+        {
+            "m_audioTrackId": "Don't Fight The Music.ogg",
+            "m_filePath": "1705992670.mc",
+            "m_name": "1705992670.mc"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Don't Fight The Music",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

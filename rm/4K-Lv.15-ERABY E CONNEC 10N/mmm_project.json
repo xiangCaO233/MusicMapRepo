@@ -1,0 +1,28 @@
+{
+    "m_audioResources": [
+        {
+            "m_id": "ERABY E CONNEC 10N.mp3",
+            "m_path": "ERABY E CONNEC 10N.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "ERABY E CONNEC 10N.mp3",
+            "m_filePath": "ERABY E CONNEC 10N_4k_ez.imd",
+            "m_name": "ERABY E CONNEC 10N_4k_ez.imd"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "4K-Lv.15-ERABY E CONNEC 10N",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

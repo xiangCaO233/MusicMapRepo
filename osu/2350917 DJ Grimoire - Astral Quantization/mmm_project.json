@@ -1,0 +1,129 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "eqBandQs": [
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608
+                ],
+                "eqEnabled": true,
+                "eqPreset": 1,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "audio.ogg",
+            "m_path": "audio.ogg",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.6399999856948853
+            },
+            "m_id": "t+pazolite - Contrapasso -paradiso-.mp3",
+            "m_path": "t+pazolite - Contrapasso -paradiso-.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "Astral Quantization.mc",
+            "m_name": "Astral Quantization.mc"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "DJ Grimoire - Astral Quantization (EternityHyper) [Ascension].osu",
+            "m_name": "DJ Grimoire - Astral Quantization (EternityHyper) [Ascension].osu"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "DJ Grimoire - Astral Quantization (EternityHyper) [Quantization [SV]].osu",
+            "m_name": "DJ Grimoire - Astral Quantization (EternityHyper) [Quantization [SV]].osu"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "[o!m] [4k] Quantization [SV].mmm",
+            "m_name": "[o!m] [4k] Quantization [SV].mmm"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "[me]Astral Quantization.mc",
+            "m_name": "[me]Astral Quantization.mc"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "[me2]Astral Quantization.mc",
+            "m_name": "[me2]Astral Quantization.mc"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "[me3]Astral Quantization.mc",
+            "m_name": "[me3]Astral Quantization.mc"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "Astral Quantization-1.mc",
+            "m_name": "Astral Quantization-1.mc"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "Astral Quantization-2.mc",
+            "m_name": "Astral Quantization-2.mc"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "Astral Quantization-3.mc",
+            "m_name": "Astral Quantization-3.mc"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "[o!m] [4k] Quantization [SV].mc",
+            "m_name": "[o!m] [4k] Quantization [SV].mc"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "[o!m] [4k] As Quantization [SV].mmm",
+            "m_name": "[o!m] [4k] As Quantization [SV].mmm"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "2350917 DJ Grimoire - Astral Quantization",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

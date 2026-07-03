@@ -1,0 +1,674 @@
+:warn
+	name=fade,atime=(-2000,1034),from=100,to=0
+:rainshower1
+	name=fade,atime=(223103,223103),from=100,to=100
+	name=fade,atime=(224094,224094),from=0,to=0
+:rainshower2
+	name=fade,atime=(224094,224094),from=100,to=100
+	name=fade,atime=(224137,224137),from=0,to=0
+:w
+	name=fade,atime=(156896,157241),from=100,to=0
+	name=fade,atime=(210689,210689),from=100,to=100
+	name=fade,atime=(211724,211810),from=100,to=0
+	name=fade,atime=(222758,223103),from=0,to=100
+	name=fade,atime=(223103,223103),from=0,to=0
+:black
+	name=fade,atime=(23448,24482),from=0,to=50
+	name=fade,atime=(24482,24482),from=0,to=0
+	name=fade,atime=(24827,24870),from=100,to=0,r=22
+	name=fade,atime=(26206,26249),from=100,to=0,r=22
+	name=fade,atime=(27586,27629),from=100,to=0,r=22
+	name=fade,atime=(28965,29008),from=100,to=0,r=22
+	name=fade,atime=(30344,30387),from=100,to=0,r=22
+	name=fade,atime=(31724,31767),from=100,to=0,r=22
+	name=fade,atime=(33103,33146),from=100,to=0,r=22
+	name=fade,atime=(34482,34525),from=100,to=0,r=22
+	name=fade,atime=(45172,46551),from=100,to=0
+	name=fade,atime=(94827,95862),from=100,to=100
+	name=fade,atime=(95862,95948),from=100,to=0
+	name=fade,atime=(179310,179353),from=100,to=0,r=22
+	name=fade,atime=(180689,180732),from=100,to=0,r=22
+	name=fade,atime=(182068,182111),from=100,to=0,r=22
+	name=fade,atime=(183442,183485),from=100,to=0,r=22
+	name=fade,atime=(184826,184869),from=100,to=0,r=22
+	name=fade,atime=(186205,186248),from=100,to=0,r=22
+	name=fade,atime=(187584,187627),from=100,to=0,r=22
+	name=fade,atime=(188963,189006),from=100,to=0,r=22
+:black2
+	name=fade,atime=(-2000,24482),from=50,to=50
+	name=fade,atime=(24482,24482),from=0,to=0
+	name=fade,atime=(90689,91034),from=100,to=0
+	name=fade,atime=(91034,94827),from=0,to=75
+	name=fade,atime=(95862,96206),from=100,to=0
+	name=fade,atime=(96206,96551),from=100,to=0
+	name=fade,atime=(96551,101379),from=0,to=75
+	name=fade,atime=(101379,101724),from=75,to=0
+	name=fade,atime=(111379,112758),from=100,to=100
+	name=fade,atime=(112758,112758),from=0,to=0
+	name=fade,atime=(113103,113448),from=0,to=50
+	name=fade,atime=(134137,134827),from=100,to=0
+	name=fade,atime=(157241,157586),from=0,to=100
+	name=fade,atime=(178965,178965),from=0,to=0
+	name=fade,atime=(178965,178965),from=0,to=0
+	name=fade,atime=(201034,201379),from=100,to=0
+	name=fade,atime=(201379,210649),from=0,to=75
+	name=fade,atime=(210649,210649),from=0,to=0
+	name=fade,atime=(212068,212413),from=100,to=0
+	name=fade,atime=(212413,223103),from=0,to=75
+	name=fade,atime=(223103,223103),from=0,to=0
+:black3
+	name=fade,atime=(24482,24827),from=100,to=100
+	name=fade,atime=(24827,24827),from=0,to=0
+	name=fade,atime=(25862,26034),from=100,to=0
+	name=fade,atime=(26034,26206),from=100,to=0
+	name=fade,atime=(27241,27586),from=100,to=100
+	name=fade,atime=(27586,27586),from=0,to=0
+	name=fade,atime=(28620,28792),from=100,to=0
+	name=fade,atime=(28792,28964),from=100,to=0
+	name=fade,atime=(30000,30344),from=100,to=100
+	name=fade,atime=(30344,30344),from=0,to=0
+	name=fade,atime=(31379,31551),from=100,to=0
+	name=fade,atime=(31551,31723),from=100,to=0
+	name=fade,atime=(32758,33103),from=100,to=100
+	name=fade,atime=(33103,33103),from=0,to=0
+	name=fade,atime=(34137,34310),from=100,to=0
+	name=fade,atime=(34310,34482),from=100,to=0
+	name=fade,atime=(35517,35689),from=100,to=100
+	name=fade,atime=(35689,35862),from=100,to=0
+	name=fade,atime=(68620,68965),from=100,to=100
+	name=fade,atime=(68620,68965),from=100,to=100
+	name=fade,atime=(68965,68965),from=0,to=0 
+	name=fade,atime=(68965,68965),from=0,to=0 
+	name=fade,atime=(90689,91034),from=100,to=0
+	name=fade,atime=(91034,94827),from=0,to=75
+	name=fade,atime=(94827,94827),from=0,to=0
+	name=fade,atime=(96206,96551),from=100,to=0
+	name=fade,atime=(96551,101379),from=0,to=75
+	name=fade,atime=(101379,101724),from=75,to=0
+	name=fade,atime=(112758,112758),from=0,to=0
+	name=fade,atime=(134137,134827),from=100,to=0
+	name=fade,atime=(178965,179310),from=100,to=100
+	name=fade,atime=(179310,179310),from=0,to=0
+	name=fade,atime=(180344,180516),from=100,to=0
+	name=fade,atime=(180516,180688),from=100,to=0
+	name=fade,atime=(181724,182069),from=100,to=100
+	name=fade,atime=(182069,182069),from=0,to=0
+	name=fade,atime=(183102,183274),from=100,to=0
+	name=fade,atime=(183274,183446),from=100,to=0
+	name=fade,atime=(184483,184827),from=100,to=100
+	name=fade,atime=(184827,184827),from=0,to=0
+	name=fade,atime=(185861,186033),from=100,to=0
+	name=fade,atime=(186033,186205),from=100,to=0
+	name=fade,atime=(187241,187586),from=100,to=100
+	name=fade,atime=(187586,187586),from=0,to=0
+	name=fade,atime=(188619,188792),from=100,to=0
+	name=fade,atime=(188792,188964),from=100,to=0
+	name=fade,atime=(195517,199655),from=0,to=75
+	name=fade,atime=(199655,199655),from=0,to=0
+	name=fade,atime=(201034,201379),from=100,to=0
+	name=fade,atime=(201379,210689),from=0,to=100
+	name=fade,atime=(210689,210689),from=0,to=0
+	name=fade,atime=(212068,212413),from=100,to=0
+	name=fade,atime=(212413,222758),from=0,to=100
+	name=fade,atime=(112758,113448),from=100,to=25
+	name=fade,atime=(156896,157586),from=100,to=25
+:black4
+	name=fade,atime=(41034,45172),from=0,to=75
+	name=fade,atime=(45172,45172),from=0,to=0
+	name=fade,atime=(67931,68620),from=50,to=50
+	name=fade,atime=(68620,68620),from=0,to=0
+	name=fade,atime=(107241,111379),from=0,to=75
+	name=fade,atime=(111379,112758),from=75,to=75
+	name=fade,atime=(112758,112758),from=0,to=0
+	name=fade,atime=(195517,199655),from=0,to=100
+	name=fade,atime=(199655,199655),from=0,to=0
+:bandw
+	name=fade,atime=(23448,24482),from=0,to=100
+	name=fade,atime=(24483,24483),from=0,to=0
+	name=fade,atime=(68965,69310),from=100,to=0
+	name=fade,atime=(112758,113103),from=100,to=0
+	name=fade,atime=(177931,178965),from=0,to=100
+	name=fade,atime=(178965,178965),from=0,to=0
+	name=fade,atime=(200689,201034),from=100,to=0
+	name=fade,atime=(211724,212068),from=100,to=0
+:t1
+	name=fade,atime=(2413,2758),from=0,to=100
+	name=fade,atime=(7586,7931),from=100,to=0
+:t2
+	name=fade,atime=(7931,8275),from=0,to=100
+	name=fade,atime=(8965,9310),from=100,to=0
+:t3
+	name=fade,atime=(9310,9655),from=0,to=100
+	name=fade,atime=(10344,10689),from=100,to=0
+:t4
+	name=fade,atime=(10689,11034),from=0,to=100
+	name=fade,atime=(11724,12068),from=100,to=0
+:t5
+	name=fade,atime=(12068,12413),from=0,to=100
+	name=fade,atime=(13103,13448),from=100,to=0
+:t6
+	name=fade,atime=(13448,13793),from=0,to=100
+	name=fade,atime=(24482,24482),from=100,to=0
+:t7
+	name=fade,atime=(68965,69310),from=0,to=100
+	name=fade,atime=(74137,74137),from=100,to=0
+:t8
+	name=fade,atime=(74137,74482),from=0,to=100
+	name=fade,atime=(79655,79655),from=100,to=0
+:t9
+	name=fade,atime=(79655,80000),from=0,to=100
+	name=fade,atime=(85172,85172),from=100,to=0
+:t10
+	name=fade,atime=(85172,85517),from=0,to=100
+	name=fade,atime=(90689,90689),from=100,to=0
+:t11
+	name=fade,atime=(94827,94827),from=0,to=100
+	name=fade,atime=(95862,95948),from=100,to=0
+:t12
+	name=fade,atime=(101724,102068),from=0,to=100
+	name=fade,atime=(104137,104482),from=100,to=0
+	name=fade,atime=(118275,118620),from=0,to=100
+	name=fade,atime=(123448,123793),from=100,to=0
+:t13
+	name=fade,atime=(104482,104827),from=0,to=100
+	name=fade,atime=(106896,107241),from=100,to=0
+	name=fade,atime=(123793,124137),from=0,to=100
+	name=fade,atime=(128965,129310),from=100,to=0
+:t14
+	name=fade,atime=(107241,107586),from=0,to=100
+	name=fade,atime=(109655,110000),from=100,to=0
+	name=fade,atime=(129310,129655),from=0,to=100
+	name=fade,atime=(134137,134137),from=100,to=0
+:t15
+	name=fade,atime=(156896,157586),from=0,to=100
+	name=fade,atime=(161724,162413),from=100,to=0
+:t16
+	name=fade,atime=(162413,163103),from=0,to=100
+	name=fade,atime=(167241,167931),from=100,to=0
+:t17
+	name=fade,atime=(167931,168620),from=0,to=100
+	name=fade,atime=(172758,173448),from=100,to=0
+:t18
+	name=fade,atime=(173448,174137),from=0,to=100
+	name=fade,atime=(178620,178965),from=100,to=0
+:t19
+	name=fade,atime=(190000,190344),from=0,to=100
+	name=fade,atime=(192413,192758),from=100,to=0
+:t20
+	name=fade,atime=(192758,193103),from=0,to=100
+	name=fade,atime=(195172,195517),from=100,to=0
+:t21
+	name=fade,atime=(195517,195862),from=0,to=100
+	name=fade,atime=(199310,199655),from=100,to=0
+:t22
+	name=fade,atime=(199482,199655),from=0,to=100
+	name=fade,atime=(200689,200775),from=100,to=0
+:t23
+	name=fade,atime=(210689,210689),from=0,to=100
+	name=fade,atime=(211724,211810),from=100,to=0
+:t24
+	name=fade,atime=(212068,212413),from=0,to=100
+	name=fade,atime=(214482,214827),from=100,to=0
+:t25
+	name=fade,atime=(214827,215172),from=0,to=100
+	name=fade,atime=(217241,217586),from=100,to=0
+:t26
+	name=fade,atime=(217586,217931),from=0,to=100
+	name=fade,atime=(223103,223103),from=100,to=0
+:t27
+	name=fade,atime=(112758,113103),from=0,to=100
+	name=fade,atime=(117931,118275),from=100,to=0
+:gua
+	name=fade,atime=(212068,223103),from=0,to=100
+	name=fade,atime=(223103,223103),from=0,to=0
+:gua2
+	name=fade,atime=(201034,202413),from=0,to=12.76
+	name=fade,atime=(202413,203793),from=12.76,to=22.45
+	name=fade,atime=(203793,205172),from=22.45,to=29.08
+	name=fade,atime=(205172,206551),from=29.08,to=32.65
+	name=fade,atime=(206551,207931),from=32.65,to=33.16
+	name=fade,atime=(207931,209310),from=33.16,to=30.61
+	name=fade,atime=(209310,210689),from=30.61,to=25
+	name=fade,atime=(210689,210689),from=0,to=0
+:bgg
+	name=fade,atime=(156379,156465),from=100,to=0
+	name=fade,atime=(156465,156551),from=100,to=0
+	name=fade,atime=(156551,156637),from=100,to=0
+	name=fade,atime=(156724,156810),from=100,to=0
+	name=fade,atime=(156810,156896),from=100,to=0
+	name=fade,atime=(210603,210689),from=0,to=100
+	name=fade,atime=(210689,210689),from=0,to=0
+:bggg
+	name=fade,atime=(94224,94482),from=0,to=100
+	name=fade,atime=(94482,94827),from=100,to=100
+	name=fade,atime=(94827,94827),from=0,to=0
+	name=fade,atime=(210086,210344),from=0,to=100
+	name=fade,atime=(210344,210689),from=100,to=100
+	name=fade,atime=(210689,210689),from=0,to=0
+:bggg1
+	name=fade,atime=(43793,43879),from=100,to=0
+	name=fade,atime=(43879,43965),from=100,to=0
+	name=fade,atime=(43965,44051),from=100,to=0
+	name=fade,atime=(44051,44137),from=100,to=0
+	name=fade,atime=(44137,44224),from=100,to=0
+	name=fade,atime=(44224,44310),from=100,to=0
+	name=fade,atime=(44310,44396),from=100,to=0
+	name=fade,atime=(44396,44482),from=100,to=0
+	name=fade,atime=(44482,44568),from=100,to=0
+	name=fade,atime=(44568,44654),from=100,to=0
+	name=fade,atime=(44654,44740),from=100,to=0
+	name=fade,atime=(44740,44826),from=100,to=0
+	name=fade,atime=(44826,44913),from=100,to=0
+	name=fade,atime=(44913,44999),from=100,to=0
+	name=fade,atime=(44999,45085),from=100,to=0
+	name=fade,atime=(45085,45171),from=100,to=0
+	name=fade,atime=(67931,68017),from=100,to=0
+	name=fade,atime=(68017,68103),from=100,to=0
+	name=fade,atime=(68103,68189),from=100,to=0
+	name=fade,atime=(68189,68275),from=100,to=0
+	name=fade,atime=(68275,68362),from=100,to=0
+	name=fade,atime=(68362,68448),from=100,to=0
+	name=fade,atime=(68448,68534),from=100,to=0
+	name=fade,atime=(68534,68620),from=100,to=0
+	name=fade,atime=(94741,94827),from=0,to=100
+	name=fade,atime=(94827,94827),from=0,to=0
+	name=fade,atime=(110000,110086),from=100,to=0
+	name=fade,atime=(110086,110172),from=100,to=0
+	name=fade,atime=(110172,110258),from=100,to=0
+	name=fade,atime=(110258,110344),from=100,to=0
+	name=fade,atime=(110344,110431),from=100,to=0
+	name=fade,atime=(110431,110517),from=100,to=0
+	name=fade,atime=(110517,110603),from=100,to=0
+	name=fade,atime=(110603,110689),from=100,to=0
+	name=fade,atime=(110689,110775),from=100,to=0
+	name=fade,atime=(110775,110861),from=100,to=0
+	name=fade,atime=(110861,110947),from=100,to=0
+	name=fade,atime=(110947,111033),from=100,to=0
+	name=fade,atime=(111033,111120),from=100,to=0
+	name=fade,atime=(111120,111206),from=100,to=0
+	name=fade,atime=(111206,111292),from=100,to=0
+	name=fade,atime=(111292,111378),from=100,to=0
+	name=fade,atime=(198275,198361),from=100,to=0
+	name=fade,atime=(198361,198447),from=100,to=0
+	name=fade,atime=(198447,198533),from=100,to=0
+	name=fade,atime=(198533,198619),from=100,to=0
+	name=fade,atime=(198619,198706),from=100,to=0
+	name=fade,atime=(198706,198792),from=100,to=0
+	name=fade,atime=(198792,198878),from=100,to=0
+	name=fade,atime=(198878,198964),from=100,to=0
+	name=fade,atime=(198964,199050),from=100,to=0
+	name=fade,atime=(199050,199136),from=100,to=0
+	name=fade,atime=(199136,199222),from=100,to=0
+	name=fade,atime=(199222,199308),from=100,to=0
+	name=fade,atime=(199308,199395),from=100,to=0
+	name=fade,atime=(199395,199481),from=100,to=0
+	name=fade,atime=(199481,199567),from=100,to=0
+	name=fade,atime=(199567,199653),from=100,to=0
+:guang
+	name=fade,atime=(198275,199655),from=0,to=100
+	name=fade,atime=(199656,199656),from=0,to=0
+:yuu1
+    name=fade,atime=(199568,199611),from=50,to=75
+    name=fade,atime=(199611,199611),from=100,to=0
+    name=fade,atime=(199826,199869),from=100,to=100
+    name=fade,atime=(199869,199869),from=100,to=0
+    name=fade,atime=(200084,200127),from=100,to=100
+    name=fade,atime=(200127,200127),from=100,to=0
+    name=fade,atime=(200342,200385),from=100,to=100
+    name=fade,atime=(200385,200385),from=100,to=0
+    name=fade,atime=(200600,200643),from=100,to=100
+    name=fade,atime=(200643,200643),from=100,to=0
+:yuu2
+    name=fade,atime=(199611,199654),from=75,to=100
+    name=fade,atime=(199654,199654),from=100,to=0
+    name=fade,atime=(199869,199912),from=100,to=100
+    name=fade,atime=(199912,199912),from=100,to=0
+    name=fade,atime=(200127,200170),from=100,to=100
+    name=fade,atime=(200170,200170),from=100,to=0
+    name=fade,atime=(200385,200428),from=100,to=100
+    name=fade,atime=(200428,200428),from=100,to=0
+    name=fade,atime=(200643,200686),from=100,to=100
+    name=fade,atime=(200686,200686),from=100,to=0
+:yuu3
+    name=fade,atime=(199654,199697),from=100,to=100
+    name=fade,atime=(199697,199697),from=100,to=0
+    name=fade,atime=(199912,199955),from=100,to=100
+    name=fade,atime=(199955,199955),from=100,to=0
+    name=fade,atime=(200170,200213),from=100,to=100
+    name=fade,atime=(200213,200213),from=100,to=0
+    name=fade,atime=(200428,200471),from=100,to=100
+    name=fade,atime=(200471,200471),from=100,to=0
+    name=fade,atime=(200686,200729),from=100,to=50
+    name=fade,atime=(200729,200729),from=100,to=0
+:yuu4
+    name=fade,atime=(199697,199740),from=100,to=100
+    name=fade,atime=(199740,199740),from=100,to=0
+    name=fade,atime=(199955,199998),from=100,to=100
+    name=fade,atime=(199998,199998),from=100,to=0
+    name=fade,atime=(200213,200256),from=100,to=100
+    name=fade,atime=(200256,200256),from=100,to=0
+    name=fade,atime=(200471,200514),from=100,to=100
+    name=fade,atime=(200514,200514),from=100,to=0
+    name=fade,atime=(200729,200772),from=50,to=0
+    name=fade,atime=(200772,200772),from=100,to=0
+:yuu5
+    name=fade,atime=(199482,199525),from=0,to=25
+    name=fade,atime=(199525,199525),from=100,to=0
+    name=fade,atime=(199740,199783),from=100,to=100
+    name=fade,atime=(199783,199783),from=100,to=0
+    name=fade,atime=(199998,200041),from=100,to=100
+    name=fade,atime=(200041,200041),from=100,to=0
+    name=fade,atime=(200256,200299),from=100,to=100
+    name=fade,atime=(200299,200299),from=100,to=0
+    name=fade,atime=(200514,200557),from=100,to=100
+    name=fade,atime=(200557,200557),from=100,to=0
+:yuu6
+    name=fade,atime=(199525,199568),from=25,to=50
+    name=fade,atime=(199568,199568),from=100,to=0
+    name=fade,atime=(199783,199826),from=100,to=100
+    name=fade,atime=(199826,199826),from=100,to=0
+    name=fade,atime=(200041,200084),from=100,to=100
+    name=fade,atime=(200084,200084),from=100,to=0
+    name=fade,atime=(200299,200342),from=100,to=100
+    name=fade,atime=(200342,200342),from=100,to=0
+    name=fade,atime=(200557,200600),from=100,to=100
+    name=fade,atime=(200600,200600),from=100,to=0
+_white
+	tex=etihw.jpg
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10001
+    motion=w
+_black
+	type=2
+	color=#000000
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10000
+    motion=black
+_black2
+	tex=kcalb.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=9999
+    motion=black2
+_black3
+	type=2
+	color=#000000
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=-3
+    motion=black3
+_black4
+	type=2
+	color=#000000
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=0
+    motion=black4
+_bandw
+	tex=somew.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10000
+    motion=bandw
+_warn
+	tex=warn.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=50%,0
+	zindex=10000
+    motion=warn
+_rainshower1
+	tex=rainshower1.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,0
+	zindex=10000
+    motion=rainshower1
+@if <1.777
+	size=0,100%
+@endif
+_rainshower2
+	tex=rainshower2.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,0
+	zindex=10000
+    motion=rainshower2
+@if <1.777
+	size=0,100%
+@endif
+_gua
+	tex=gua.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10000
+	flip=0
+    motion=gua
+_gua2
+	tex=gua.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=9998
+    motion=gua2
+_bgg
+	tex=bgg.jpg
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,0
+	zindex=-2
+    motion=bgg
+@if <1.558
+	size=0,100%
+@endif
+_bggg
+	tex=bggg.jpg
+	opacity=0
+	anchor=4
+	blend=1
+	pos=50%,50%
+	size=100%,0
+	zindex=-3
+    motion=bggg
+@if <1.558
+	size=0,100%
+@endif
+_bggg1
+	tex=bgggg.jpg
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,0
+	zindex=-2
+    motion=bggg1
+@if <1.558
+	size=0,100%
+@endif
+_yuu1
+	tex=yuu1.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10010
+    motion=yuu1
+_yuu2
+	tex=yuu2.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10010
+    motion=yuu2
+_yuu3
+	tex=yuu3.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10010
+    motion=yuu3
+_yuu4
+	tex=yuu4.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10010
+    motion=yuu4
+_yuu5
+	tex=yuu5.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10010
+    motion=yuu5
+_yuu6
+	tex=yuu6.png
+	opacity=0
+	anchor=4
+	pos=50%,50%
+	size=100%,100%
+	zindex=10010
+    motion=yuu6
+_guang
+	tex=guang.png
+	opacity=0
+	anchor=4
+	blend=1
+	pos=50%,50%
+	size=100%,100%
+	zindex=10010
+    motion=guang
+_text-[1-27]
+	opacity=0
+	anchor=3
+	pos=0,50%
+	size=0,40
+	zindex=0
+_text-1
+	size=0,20
+	tex=1_rain.png 
+    motion=t1
+_text-2
+	tex=2_rain.png
+    motion=t2
+_text-3
+	tex=3_rain.png
+    motion=t3
+_text-4
+	tex=4_rain.png
+    motion=t4
+_text-5
+	tex=5_rain.png
+    motion=t5
+_text-6
+	tex=6_rain.png
+    motion=t6
+_text-7
+	tex=7_rain.png
+    motion=t7
+_text-8
+	tex=8_rain.png
+    motion=t8
+_text-9
+	tex=9_rain.png
+    motion=t9
+_text-10
+	tex=10_rain.png
+    motion=t10
+_text-11
+	zindex=10011
+	anchor=4
+	pos=50%,50%
+	tex=11_rain.png
+    motion=t11
+_text-12
+	tex=12_rain.png
+    motion=t12
+_text-13
+	tex=13_rain.png
+    motion=t13
+_text-14
+	tex=14_rain.png
+    motion=t14
+_text-15
+	zindex=9998
+	anchor=4
+	pos=50%,50%
+	tex=15_rain.png
+    motion=t15
+_text-16
+	zindex=9998
+	anchor=4
+	pos=50%,50%
+	tex=16_rain.png
+    motion=t16
+_text-17
+	zindex=9998
+	anchor=4
+	pos=50%,50%
+	tex=17_rain.png
+    motion=t17
+_text-18
+	zindex=9998
+	anchor=4
+	pos=50%,50%
+	tex=18_rain.png
+    motion=t18
+_text-19
+	tex=19_rain.png
+    motion=t19
+_text-20
+	tex=20_rain.png
+    motion=t20
+_text-21
+	tex=21_rain.png
+	zindex=-1
+    motion=t21
+_text-22
+	zindex=10011
+	anchor=4
+	pos=50%,50%
+	tex=22_rain.png
+    motion=t22
+_text-23
+	zindex=10011
+	anchor=4
+	pos=50%,50%
+	tex=23_rain.png
+    motion=t23
+_text-24
+	tex=24_rain.png
+    motion=t24
+_text-25
+	tex=25_rain.png
+    motion=t25
+_text-26
+	tex=26_rain.png
+    motion=t26
+_text-27
+	tex=27_rain.png
+    motion=t27

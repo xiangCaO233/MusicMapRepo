@@ -1,0 +1,271 @@
+{
+    "m_audioResources": [
+        {
+            "m_id": "1.wav",
+            "m_path": "1.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "1010.wav",
+            "m_path": "1010.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "11.wav",
+            "m_path": "11.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "111.wav",
+            "m_path": "111.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "1111.wav",
+            "m_path": "1111.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "2.wav",
+            "m_path": "2.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "22.wav",
+            "m_path": "22.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "222.wav",
+            "m_path": "222.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "2222.wav",
+            "m_path": "2222.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "3.wav",
+            "m_path": "3.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "33.wav",
+            "m_path": "33.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "333.wav",
+            "m_path": "333.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "3333.wav",
+            "m_path": "3333.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "4.wav",
+            "m_path": "4.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "44.wav",
+            "m_path": "44.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "444.wav",
+            "m_path": "444.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "5.wav",
+            "m_path": "5.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "55.wav",
+            "m_path": "55.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "555.wav",
+            "m_path": "555.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "6.wav",
+            "m_path": "6.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "66.wav",
+            "m_path": "66.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "666.wav",
+            "m_path": "666.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "7.wav",
+            "m_path": "7.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "77.wav",
+            "m_path": "77.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "777.wav",
+            "m_path": "777.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "88.wav",
+            "m_path": "88.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "888.wav",
+            "m_path": "888.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "999.wav",
+            "m_path": "999.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "Snare.wav",
+            "m_path": "Snare.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "bass drop.wav",
+            "m_path": "bass drop.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "soft-hitclap.wav",
+            "m_path": "soft-hitclap.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "soft-hitclap2.wav",
+            "m_path": "soft-hitclap2.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "soft-hitfinish.wav",
+            "m_path": "soft-hitfinish.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "soft-hitnormal.wav",
+            "m_path": "soft-hitnormal.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "soft-hitwhistle.wav",
+            "m_path": "soft-hitwhistle.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "tom1.wav",
+            "m_path": "tom1.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "tom2.wav",
+            "m_path": "tom2.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "tom3.wav",
+            "m_path": "tom3.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "1.wav",
+            "m_filePath": "Mitsukiyo - Lovely Picnic (Revv-) [AZKi's Normal].osu",
+            "m_name": "Mitsukiyo - Lovely Picnic (Revv-) [AZKi's Normal].osu"
+        },
+        {
+            "m_audioTrackId": "1.wav",
+            "m_filePath": "Mitsukiyo - Lovely Picnic (Revv-) [Affection].osu",
+            "m_name": "Mitsukiyo - Lovely Picnic (Revv-) [Affection].osu"
+        },
+        {
+            "m_audioTrackId": "1.wav",
+            "m_filePath": "Mitsukiyo - Lovely Picnic (Revv-) [Ainer's Easy].osu",
+            "m_name": "Mitsukiyo - Lovely Picnic (Revv-) [Ainer's Easy].osu"
+        },
+        {
+            "m_audioTrackId": "1.wav",
+            "m_filePath": "Mitsukiyo - Lovely Picnic (Revv-) [Hard].osu",
+            "m_name": "Mitsukiyo - Lovely Picnic (Revv-) [Hard].osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Mitsukiyo - Lovely Picnic",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

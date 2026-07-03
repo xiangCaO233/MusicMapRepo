@@ -1,0 +1,93 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [
+                    7.507329940795898,
+                    7.507329940795898,
+                    6.568914413452148,
+                    7.976537704467773,
+                    3.2844581604003906,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "eqBandQs": [
+                    0.8929250836372375,
+                    1.2008590698242188,
+                    1.4142159223556519,
+                    1.5681816339492798,
+                    1.8761132955551147,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608
+                ],
+                "eqEnabled": true,
+                "eqPreset": 1,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Redemptione.mp3",
+            "m_path": "Redemptione.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Redemptione.mp3",
+            "m_filePath": "Redemptione_4k_hd.imd",
+            "m_name": "Redemptione_4k_hd.imd"
+        }
+    ],
+    "m_excludedAudioPaths": [],
+    "m_excludedBeatmapPaths": [],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Redemptione",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "Redemptione_4k_hd.imd",
+        "m_visualOverride": null,
+        "m_workspace": {
+            "m_activeBeatmapPath": "Redemptione_4k_hd.imd",
+            "m_activeEditTool": "Move",
+            "m_activePlaybackTime": 58.101333333333336,
+            "m_audioControllers": [],
+            "m_audioSpectrumOpen": false,
+            "m_audioWaveformOpen": false,
+            "m_bpmMeasurementAudioTrackId": "",
+            "m_bpmMeasurementToolOpen": false,
+            "m_imguiIniData": "[Window][SideBarManager]\nPos=130,39\nSize=350,642\nCollapsed=0\nDockId=0x00000001,0\n\n[Window][Timeline]\nPos=950,39\nSize=114,642\nCollapsed=0\nDockId=0x00000006,0\n\n[Window][Basic2DCanvas]\nCollapsed=0\nDockId=0x00000005\n\n[Window][PreviewWindow]\nPos=1072,39\nSize=144,642\nCollapsed=0\nDockId=0x00000004,0\n\n[Window][Canvas_0]\nPos=488,39\nSize=454,642\nCollapsed=0\nDockId=0x00000005,0\n\n[Window][StatusBar]\nPos=0,689\nSize=1280,32\nCollapsed=0\n\n[Window][RightDockHost]\nPos=130,39\nSize=1086,642\nCollapsed=0\n\n[Window][Debug##Default]\nPos=60,60\nSize=400,400\nCollapsed=0\n\n[Window][Toolbar]\nPos=1224,39\nSize=48,642\nCollapsed=0\n\n[Window][TopMenuBarHost]\nPos=0,0\nSize=1280,32\nCollapsed=0\n\n[Window][BpmMeasurementToolWindow]\nPos=146,128\nSize=1542,834\nCollapsed=0\n\n[Window][TimingPointsTable]\nPos=60,60\nSize=650,450\nCollapsed=0\n\n[Window][Canvas_1]\nPos=1129,39\nSize=311,1120\nCollapsed=0\n\n[Window][Canvas_2]\nPos=1448,39\nSize=299,1120\nCollapsed=0\n\n[Window][打开文件夹##ProjectFolderPicker]\nPos=340,160\nSize=600,400\nCollapsed=0\n\n[Window][ExitConfirmation]\nPos=874,534\nSize=445,129\nCollapsed=0\n\n[Window][Canvas_3]\nPos=828,39\nSize=363,1156\nCollapsed=0\n\n[Window][1692193425.ogg]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][1763798018.ogg]\nPos=130,39\nSize=347,1120\nCollapsed=0\n\n[Window][AudioSpectrumViewGlobal]\nPos=448,39\nSize=353,1120\nCollapsed=0\n\n[Window][SpectrumCalcModal]\nPos=889,539\nSize=416,120\nCollapsed=0\n\n[Window][TrackController_1763798018.ogg]\nPos=130,39\nSize=310,1120\nCollapsed=0\n\n[Window][BpmMeasurementTool]\nPos=164,29\nSize=940,655\nCollapsed=0\n\n[Window][TrackController_metronome.beat_low]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][TrackController_hiteffect.flick]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][TrackController_hiteffect.note]\nPos=69,200\nSize=400,500\nCollapsed=0\n\n[Window][TimelineEventEditor]\nPos=947,466\nSize=300,266\nCollapsed=0\n\n[Table][0x57CA6EA9,2]\nRefScale=17\nColumn 0  Weight=1.0000\nColumn 1  Width=285\n\n[Table][0xF29E6D0B,5]\nRefScale=17\nColumn 0  Width=40\nColumn 1  Weight=1.0000\nColumn 2  Width=80\nColumn 3  Weight=1.0000\nColumn 4  Width=130\n\n[Table][0xE15A46BA,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0x509F4C05,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0x45AA9718,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0xC9BA8E4E,2]\nRefScale=17\n\n[Docking][Data]\nDockSpace       ID=0x388F2491 Window=0xD7F8C01D Pos=130,39 Size=1086,642 Split=X\n  DockNode      ID=0x00000001 Parent=0x388F2491 SizeRef=350,642 Selected=0x47BFFBC9\n  DockNode      ID=0x00000002 Parent=0x388F2491 SizeRef=728,642 Split=X\n    DockNode    ID=0x00000003 Parent=0x00000002 SizeRef=576,642 Split=X\n      DockNode  ID=0x00000005 Parent=0x00000003 SizeRef=454,642 CentralNode=1 Selected=0xBAFC3645\n      DockNode  ID=0x00000006 Parent=0x00000003 SizeRef=114,642 Selected=0x4F89F0DC\n    DockNode    ID=0x00000004 Parent=0x00000002 SizeRef=144,642 Selected=0x85F72C45\n\n",
+            "m_mainWindow": {
+                "m_height": 720,
+                "m_maximized": false,
+                "m_valid": true,
+                "m_width": 1280,
+                "m_x": 0,
+                "m_y": 0
+            },
+            "m_metadataEditorOpen": false,
+            "m_noteMetadataEditorOpen": false,
+            "m_openBeatmaps": [
+                {
+                    "m_cameraId": "Canvas_0",
+                    "m_displayName": "Redemptione_4k_hd.imd",
+                    "m_filePath": "Redemptione_4k_hd.imd",
+                    "m_playbackTime": 58.101333333333336
+                }
+            ],
+            "m_overlapCheckOpen": false,
+            "m_sidebarActiveTab": "BeatMapExplorer",
+            "m_timingPointsTableOpen": false
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "t+pazolite - Contrapasso -paradiso-.mp3",
+            "m_path": "t+pazolite - Contrapasso -paradiso-.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "01_futago_7key-nm.osu",
+            "m_name": "01_futago_7key-nm.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "02_futago_7key-hy.osu",
+            "m_name": "02_futago_7key-hy.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "03_futago_7key-an.osu",
+            "m_name": "03_futago_7key-an.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "04_futago.osu",
+            "m_name": "04_futago.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "_futago_srdS.osu",
+            "m_name": "_futago_srdS.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "_futago_srdXX.osu",
+            "m_name": "_futago_srdXX.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "pla_futago_a2.osu",
+            "m_name": "pla_futago_a2.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "pla_futago_afo.osu",
+            "m_name": "pla_futago_afo.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "pla_futago_buwa.osu",
+            "m_name": "pla_futago_buwa.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "pla_futago_luna.osu",
+            "m_name": "pla_futago_luna.osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "pla_futago_ph.osu",
+            "m_name": "pla_futago_ph.osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "shuangziguancai",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

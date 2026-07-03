@@ -1,0 +1,28 @@
+{
+    "m_audioResources": [
+        {
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "nitro - qualia -ideaesthesia- (xiang_233) [(LN)Lv.troni].osu",
+            "m_name": "nitro - qualia -ideaesthesia- (xiang_233) [(LN)Lv.troni].osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "nitro - qualia -ideaesthesia-",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

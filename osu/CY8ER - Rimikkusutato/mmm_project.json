@@ -1,0 +1,59 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "eqBandQs": [
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608
+                ],
+                "eqEnabled": true,
+                "eqPreset": 1,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 0.75,
+                "volume": 0.5
+            },
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "CY8ER - Rimikkusutato (xiang_233) [remixtart].osu",
+            "m_name": "CY8ER - Rimikkusutato (xiang_233) [remixtart].osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "CY8ER - Rimikkusutato",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

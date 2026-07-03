@@ -1,0 +1,133 @@
+{
+    "m_audioResources": [
+        {
+            "m_id": "Blastix Riotz_1.1.mp3",
+            "m_path": "Blastix Riotz_1.1.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "Blastix Riotz_1.1.mp3.wav",
+            "m_path": "Blastix Riotz_1.1.mp3.wav",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "Blastix Riotz_1.15.mp3",
+            "m_path": "Blastix Riotz_1.15.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "Blastix Riotz_1.2.mp3",
+            "m_path": "Blastix Riotz_1.2.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "L - Lost by Ice_1.2.mp3",
+            "m_path": "L - Lost by Ice_1.2.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "L - Lost by Ice_1.3.mp3",
+            "m_path": "L - Lost by Ice_1.3.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "Tactical railroad_1.2.mp3",
+            "m_path": "Tactical railroad_1.2.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "Tactical railroad_1.25.mp3",
+            "m_path": "Tactical railroad_1.25.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "Tactical railroad_1.3.mp3",
+            "m_path": "Tactical railroad_1.3.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "audio_1.15.mp3",
+            "m_path": "audio_1.15.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        },
+        {
+            "m_id": "audio_1.2.mp3",
+            "m_path": "audio_1.2.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Camellia - Blastix Riotz x1.15].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Camellia - Blastix Riotz x1.15].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Camellia - Blastix Riotz x1.1].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Camellia - Blastix Riotz x1.1].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Camellia - Blastix Riotz x1.2].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Camellia - Blastix Riotz x1.2].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [DJ Sharpnel - Tactical Railroad [17] x1.25].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [DJ Sharpnel - Tactical Railroad [17] x1.25].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [DJ Sharpnel - Tactical Railroad [17] x1.2].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [DJ Sharpnel - Tactical Railroad [17] x1.2].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [DJ Sharpnel - Tactical Railroad [17] x1.3].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [DJ Sharpnel - Tactical Railroad [17] x1.3].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Ice - L - Lost x1.2].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Ice - L - Lost x1.2].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Ice - L - Lost x1.3].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [Ice - L - Lost x1.3].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [m108 - Crow Solace x1.15].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [m108 - Crow Solace x1.15].osu"
+        },
+        {
+            "m_audioTrackId": "Blastix Riotz_1.1.mp3",
+            "m_filePath": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [m108 - Crow Solace x1.2].osu",
+            "m_name": "V.A. - 6k High Speed Ultimate Pack Vol.3 (_IceRain) [m108 - Crow Solace x1.2].osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "896710 VA - 6k High Speed Ultimate Pack Vol3",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

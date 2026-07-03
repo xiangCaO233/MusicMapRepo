@@ -1,0 +1,64 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [
+                    10.5,
+                    7.5,
+                    4.999998092651367,
+                    2.500001907348633,
+                    0.4999980926513672,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "eqBandQs": [
+                    0.9021499156951904,
+                    0.9021499156951904,
+                    0.9021499156951904,
+                    0.7314598560333252,
+                    0.9021499156951904,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608,
+                    1.4142135381698608
+                ],
+                "eqEnabled": true,
+                "eqPreset": 1,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "",
+            "m_filePath": "-4k-(LN)NM lv.29.mmm",
+            "m_name": "-4k-(LN)NM lv.29.mmm"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "Haruka Kiritani  Shizuku Hino Mori  Hatsune Miku - shojo rei (xiang_233) [(LN)NM lv.29].osu",
+            "m_name": "Haruka Kiritani  Shizuku Hino Mori  Hatsune Miku - shojo rei (xiang_233) [(LN)NM lv.29].osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Haruka Kiritani  Shizuku Hino Mori  Hatsune Miku - shojo rei",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

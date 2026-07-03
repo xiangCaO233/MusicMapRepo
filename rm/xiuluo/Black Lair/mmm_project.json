@@ -1,0 +1,28 @@
+{
+    "m_audioResources": [
+        {
+            "m_id": "Black Lair.mp3",
+            "m_path": "Black Lair.mp3",
+            "m_type": "Main",
+            "m_volume": 1.0
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Black Lair.mp3",
+            "m_filePath": "Black Lair_4k_hd.imd",
+            "m_name": "Black Lair_4k_hd.imd"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Black Lair",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

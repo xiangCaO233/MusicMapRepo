@@ -1,0 +1,352 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "11.mp3",
+            "m_path": "11.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "12-2.mp3",
+            "m_path": "12-2.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "13.mp3",
+            "m_path": "13.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "14.mp3",
+            "m_path": "14.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "16.mp3",
+            "m_path": "16.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "17.mp3",
+            "m_path": "17.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "19-2.mp3",
+            "m_path": "19-2.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "20.mp3",
+            "m_path": "20.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Final.mp3",
+            "m_path": "Final.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "True Final.mp3",
+            "m_path": "True Final.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "t+pazolite&Laur - Pandemonium.mp3",
+            "m_path": "t+pazolite&Laur - Pandemonium.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Final.mp3",
+            "m_filePath": "Laur vs HyuN - 4K C Dan V1 Technicalmap Part.2 (Ctrl_) [Final Dan  Lunatixxx Gear].osu",
+            "m_name": "Laur vs HyuN - 4K C Dan V1 Technicalmap Part.2 (Ctrl_) [Final Dan  Lunatixxx Gear].osu"
+        },
+        {
+            "m_audioTrackId": "12-2.mp3",
+            "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (AIzunaKI) [12th Dan  Mash!Smash!!Bash!].osu",
+            "m_name": "V.A - 4K C Dan V1 Technicalmap Part.2 (AIzunaKI) [12th Dan  Mash!Smash!!Bash!].osu"
+        },
+        {
+            "m_audioTrackId": "True Final.mp3",
+            "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (Az-Q) [True Final Dan  Virtual Space].osu",
+            "m_name": "V.A - 4K C Dan V1 Technicalmap Part.2 (Az-Q) [True Final Dan  Virtual Space].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (Black-rose) [15th Dan  Reanimate].osu",
+            "m_name": "V.A - 4K C Dan V1 Technicalmap Part.2 (Black-rose) [15th Dan  Reanimate].osu"
+        },
+        {
+            "m_audioTrackId": "t+pazolite&Laur - Pandemonium.mp3",
+            "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (RMAILtF930) [18th dan  Pandemonium].osu",
+            "m_name": "V.A - 4K C Dan V1 Technicalmap Part.2 (RMAILtF930) [18th dan  Pandemonium].osu"
+        },
+        {
+            "m_audioTrackId": "20.mp3",
+            "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (wds0) [20th Dan  Heterochromia Iridis].osu",
+            "m_name": "V.A - 4K C Dan V1 Technicalmap Part.2 (wds0) [20th Dan  Heterochromia Iridis].osu"
+        },
+        {
+            "m_audioTrackId": "19-2.mp3",
+            "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (zhandada) [19th Dan  CRITICAL LINE (Quarks Remix)].osu",
+            "m_name": "V.A - 4K C Dan V1 Technicalmap Part.2 (zhandada) [19th Dan  CRITICAL LINE (Quarks Remix)].osu"
+        },
+        {
+            "m_audioTrackId": "17.mp3",
+            "m_filePath": "V.A - 4K C Dan V1 technicalmap Part.2 (YUJI) [17th Dan  Mercilessness].osu",
+            "m_name": "V.A - 4K C Dan V1 technicalmap Part.2 (YUJI) [17th Dan  Mercilessness].osu"
+        },
+        {
+            "m_audioTrackId": "13.mp3",
+            "m_filePath": "V.A. - 4K C Dan V1 Technicalmap Part.2 (Hoshimiya) [13th Dan  Byoushin Okamu].osu",
+            "m_name": "V.A. - 4K C Dan V1 Technicalmap Part.2 (Hoshimiya) [13th Dan  Byoushin Okamu].osu"
+        },
+        {
+            "m_audioTrackId": "16.mp3",
+            "m_filePath": "V.A. - 4K C Dan V1 Technicalmap Part.2 (Okangbao) [16th Dan  Berry Go!!].osu",
+            "m_name": "V.A. - 4K C Dan V1 Technicalmap Part.2 (Okangbao) [16th Dan  Berry Go!!].osu"
+        },
+        {
+            "m_audioTrackId": "11.mp3",
+            "m_filePath": "V.A. - 4K C Dan V1 Technicalmap Part.2 (coodecy) [11th dan  Deeply Delusional].osu",
+            "m_name": "V.A. - 4K C Dan V1 Technicalmap Part.2 (coodecy) [11th dan  Deeply Delusional].osu"
+        },
+        {
+            "m_audioTrackId": "14.mp3",
+            "m_filePath": "V.A. - 4K C Dan V1 Technicalmap Part.2 (xiang_233) [14th Dan  Rimikkusutato].osu",
+            "m_name": "V.A. - 4K C Dan V1 Technicalmap Part.2 (xiang_233) [14th Dan  Rimikkusutato].osu"
+        }
+    ],
+    "m_excludedAudioPaths": [],
+    "m_excludedBeatmapPaths": [],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "V.A. - 4K C Dan V1 Technicalmap Part.2",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "V.A - 4K C Dan V1 Technicalmap Part.2 (RMAILtF930) [18th dan  Pandemonium].osu",
+        "m_visualOverride": null,
+        "m_workspace": {
+            "m_activeBeatmapPath": "V.A - 4K C Dan V1 Technicalmap Part.2 (RMAILtF930) [18th dan  Pandemonium].osu",
+            "m_activeEditTool": "Move",
+            "m_activePlaybackTime": 92.152625,
+            "m_audioControllers": [],
+            "m_audioSpectrumOpen": false,
+            "m_audioWaveformOpen": false,
+            "m_bpmMeasurementAudioTrackId": "",
+            "m_bpmMeasurementToolOpen": false,
+            "m_imguiIniData": "[Window][SideBarManager]\nPos=130,39\nSize=496,1120\nCollapsed=0\nDockId=0x00000001,0\n\n[Window][Timeline]\nPos=1795,39\nSize=166,1120\nCollapsed=0\nDockId=0x00000006,0\n\n[Window][Basic2DCanvas]\nCollapsed=0\nDockId=0x0000000F\n\n[Window][PreviewWindow]\nPos=1969,39\nSize=161,1120\nCollapsed=0\nDockId=0x00000004,0\n\n[Window][Canvas_0]\nPos=634,39\nSize=292,559\nCollapsed=0\nDockId=0x0000000F,0\n\n[Window][StatusBar]\nPos=0,1167\nSize=2194,31\nCollapsed=0\n\n[Window][RightDockHost]\nPos=130,39\nSize=2000,1120\nCollapsed=0\n\n[Window][Debug##Default]\nPos=60,60\nSize=400,400\nCollapsed=0\n\n[Window][Toolbar]\nPos=2138,39\nSize=48,1120\nCollapsed=0\n\n[Window][TopMenuBarHost]\nPos=0,0\nSize=2194,31\nCollapsed=0\n\n[Window][BpmMeasurementToolWindow]\nPos=146,128\nSize=1542,834\nCollapsed=0\n\n[Window][TimingPointsTable]\nPos=60,60\nSize=650,450\nCollapsed=0\n\n[Window][Canvas_1]\nPos=1218,39\nSize=281,559\nCollapsed=0\nDockId=0x00000011,0\n\n[Window][Canvas_2]\nPos=1514,606\nSize=273,553\nCollapsed=0\nDockId=0x00000014,0\n\n[Window][打开文件夹##ProjectFolderPicker]\nPos=340,160\nSize=600,400\nCollapsed=0\n\n[Window][ExitConfirmation]\nPos=874,534\nSize=445,129\nCollapsed=0\n\n[Window][Canvas_3]\nPos=1507,39\nSize=280,559\nCollapsed=0\nDockId=0x00000012,0\n\n[Window][1692193425.ogg]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][1763798018.ogg]\nPos=130,39\nSize=347,1120\nCollapsed=0\n\n[Window][AudioSpectrumViewGlobal]\nPos=448,39\nSize=353,1120\nCollapsed=0\n\n[Window][SpectrumCalcModal]\nPos=889,539\nSize=416,120\nCollapsed=0\n\n[Window][TrackController_1763798018.ogg]\nPos=130,39\nSize=310,1120\nCollapsed=0\n\n[Window][BpmMeasurementTool]\nPos=406,143\nSize=1257,944\nCollapsed=0\n\n[Window][TrackController_metronome.beat_low]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][TrackController_hiteffect.flick]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][TrackController_hiteffect.note]\nPos=69,200\nSize=400,500\nCollapsed=0\n\n[Window][TimelineEventEditor]\nPos=947,466\nSize=300,266\nCollapsed=0\n\n[Window][TrackController_metronome.downbeat_high]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][TimingPointsTableWindow]\nPos=60,60\nSize=650,450\nCollapsed=0\n\n[Window][Canvas_4]\nPos=934,39\nSize=276,559\nCollapsed=0\nDockId=0x00000010,0\n\n[Window][SettingsWindow]\nPos=785,39\nSize=740,1120\nCollapsed=0\n\n[Window][MetadataEditorWindow]\nPos=-455,82\nSize=1546,959\nCollapsed=0\n\n[Window][MetadataJsonEditorPopup]\nPos=518,349\nSize=694,726\nCollapsed=0\n\n[Window][NoteMetadataEditorWindow]\nPos=165,252\nSize=750,500\nCollapsed=0\n\n[Window][OsuMetadataTextEditorPopup]\nPos=422,405\nSize=744,560\nCollapsed=0\n\n[Window][另存为...##SaveAsFilePicker]\nPos=797,399\nSize=600,400\nCollapsed=0\n\n[Window][ExportWarningModal]\nPos=727,433\nSize=740,310\nCollapsed=0\n\n[Window][检查更新]\nPos=571,310\nSize=186,135\nCollapsed=0\n\n[Window][ExportFormatPickerModal]\nPos=939,430\nSize=316,337\nCollapsed=0\n\n[Window][TrackController_audio.mp3]\nPos=658,39\nSize=939,1120\nCollapsed=0\n\n[Window][TimelineCreateEvent]\nPos=922,386\nSize=350,425\nCollapsed=0\n\n[Window][Canvas_5]\nPos=929,606\nSize=281,553\nCollapsed=0\nDockId=0x0000000E,0\n\n[Window][Canvas_6]\nPos=634,606\nSize=287,553\nCollapsed=0\nDockId=0x0000000D,0\n\n[Window][Canvas_7]\nPos=1218,606\nSize=288,553\nCollapsed=0\nDockId=0x00000013,0\n\n[Window][Canvas_8]\nPos=634,39\nSize=292,559\nCollapsed=0\nDockId=0x0000000F,1\n\n[Window][OverlapCheckWindow]\nPos=108,152\nSize=550,450\nCollapsed=0\n\n[Window][PackageFormatPickerModal]\nPos=929,452\nSize=336,294\nCollapsed=0\n\n[Table][0x57CA6EA9,2]\nRefScale=17\nColumn 0  Weight=1.0000\nColumn 1  Width=285\n\n[Table][0xF29E6D0B,5]\nRefScale=17\nColumn 0  Width=40\nColumn 1  Weight=1.0000\nColumn 2  Width=80\nColumn 3  Weight=1.0000\nColumn 4  Width=130\n\n[Table][0xE15A46BA,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0x509F4C05,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0x45AA9718,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0xC9BA8E4E,2]\nRefScale=17\n\n[Table][0x6C5DA0D8,5]\nRefScale=17\nColumn 0  Width=40\nColumn 1  Weight=1.0000\nColumn 2  Width=80\nColumn 3  Weight=1.0000\nColumn 4  Width=130\n\n[Table][0xB7AB2B70,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0xCABA0E71,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0x648B72EA,4]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=250\nColumn 3  Width=130\n\n[Table][0x8A86DDC6,4]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=232\nColumn 3  Width=148\n\n[Table][0xCCDEDC92,3]\nRefScale=21\nColumn 0  Width=170\nColumn 1  Weight=1.0000\nColumn 2  Width=70\n\n[Table][0x55D78E6E,3]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=130\n\n[Table][0x56B9A93D,3]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=130\n\n[Table][0x85011CAA,3]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=130\n\n[Table][0xF276E7FE,4]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=250\nColumn 3  Width=130\n\n[Table][0x884EBB87,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Docking][Data]\nDockSpace             ID=0x388F2491 Window=0xD7F8C01D Pos=130,39 Size=2000,1120 Split=X\n  DockNode            ID=0x00000001 Parent=0x388F2491 SizeRef=496,846 Selected=0x47BFFBC9\n  DockNode            ID=0x00000002 Parent=0x388F2491 SizeRef=302,822 Split=X\n    DockNode          ID=0x00000003 Parent=0x00000002 SizeRef=640,822 Split=X\n      DockNode        ID=0x00000005 Parent=0x00000003 SizeRef=1153,822 Split=X Selected=0x128A3801\n        DockNode      ID=0x00000007 Parent=0x00000005 SizeRef=576,1120 Split=Y Selected=0x62A8E759\n          DockNode    ID=0x0000000B Parent=0x00000007 SizeRef=592,559 Split=X Selected=0xF2CF86B1\n            DockNode  ID=0x0000000F Parent=0x0000000B SizeRef=292,556 CentralNode=1 Selected=0x7F9B3DD4\n            DockNode  ID=0x00000010 Parent=0x0000000B SizeRef=276,556 Selected=0x5AB988F5\n          DockNode    ID=0x0000000C Parent=0x00000007 SizeRef=592,553 Split=X Selected=0x2A9B57AD\n            DockNode  ID=0x0000000D Parent=0x0000000C SizeRef=287,556 Selected=0x2A9B57AD\n            DockNode  ID=0x0000000E Parent=0x0000000C SizeRef=281,556 Selected=0x62A8E759\n        DockNode      ID=0x00000008 Parent=0x00000005 SizeRef=569,1120 Split=Y Selected=0x82ED59E9\n          DockNode    ID=0x00000009 Parent=0x00000008 SizeRef=592,562 Split=X Selected=0x82ED59E9\n            DockNode  ID=0x00000011 Parent=0x00000009 SizeRef=281,559 Selected=0x82ED59E9\n            DockNode  ID=0x00000012 Parent=0x00000009 SizeRef=280,559 Selected=0xF2CF86B1\n          DockNode    ID=0x0000000A Parent=0x00000008 SizeRef=592,556 Split=X Selected=0x128A3801\n            DockNode  ID=0x00000013 Parent=0x0000000A SizeRef=288,553 Selected=0x128A3801\n            DockNode  ID=0x00000014 Parent=0x0000000A SizeRef=273,553 Selected=0xCADEE91D\n      DockNode        ID=0x00000006 Parent=0x00000003 SizeRef=166,822 Selected=0x4F89F0DC\n    DockNode          ID=0x00000004 Parent=0x00000002 SizeRef=161,822 Selected=0x85F72C45\n\n",
+            "m_mainWindow": {
+                "m_height": 900,
+                "m_maximized": true,
+                "m_valid": true,
+                "m_width": 1400,
+                "m_x": 0,
+                "m_y": 0
+            },
+            "m_metadataEditorOpen": false,
+            "m_noteMetadataEditorOpen": false,
+            "m_openBeatmaps": [
+                {
+                    "m_cameraId": "Canvas_0",
+                    "m_displayName": "Laur vs HyuN - 4K C Dan V1 Technicalmap Part.2 (Ctrl_) [Final Dan  Lunatixxx Gear].osu",
+                    "m_filePath": "Laur vs HyuN - 4K C Dan V1 Technicalmap Part.2 (Ctrl_) [Final Dan  Lunatixxx Gear].osu",
+                    "m_playbackTime": 143.74374398054772
+                },
+                {
+                    "m_cameraId": "Canvas_1",
+                    "m_displayName": "V.A - 4K C Dan V1 Technicalmap Part.2 (AIzunaKI) [12th Dan  Mash!Smash!!Bash!].osu",
+                    "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (AIzunaKI) [12th Dan  Mash!Smash!!Bash!].osu",
+                    "m_playbackTime": 60.400354166666666
+                },
+                {
+                    "m_cameraId": "Canvas_2",
+                    "m_displayName": "V.A - 4K C Dan V1 Technicalmap Part.2 (Az-Q) [True Final Dan  Virtual Space].osu",
+                    "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (Az-Q) [True Final Dan  Virtual Space].osu",
+                    "m_playbackTime": 57.490520833333335
+                },
+                {
+                    "m_cameraId": "Canvas_3",
+                    "m_displayName": "V.A - 4K C Dan V1 Technicalmap Part.2 (Black-rose) [15th Dan  Reanimate].osu",
+                    "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (Black-rose) [15th Dan  Reanimate].osu",
+                    "m_playbackTime": 98.001875
+                },
+                {
+                    "m_cameraId": "Canvas_4",
+                    "m_displayName": "V.A - 4K C Dan V1 Technicalmap Part.2 (RMAILtF930) [18th dan  Pandemonium].osu",
+                    "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (RMAILtF930) [18th dan  Pandemonium].osu",
+                    "m_playbackTime": 92.152625
+                },
+                {
+                    "m_cameraId": "Canvas_5",
+                    "m_displayName": "V.A - 4K C Dan V1 Technicalmap Part.2 (wds0) [20th Dan  Heterochromia Iridis].osu",
+                    "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (wds0) [20th Dan  Heterochromia Iridis].osu",
+                    "m_playbackTime": 101.28164583333333
+                },
+                {
+                    "m_cameraId": "Canvas_6",
+                    "m_displayName": "V.A - 4K C Dan V1 Technicalmap Part.2 (zhandada) [19th Dan  CRITICAL LINE (Quarks Remix)].osu",
+                    "m_filePath": "V.A - 4K C Dan V1 Technicalmap Part.2 (zhandada) [19th Dan  CRITICAL LINE (Quarks Remix)].osu",
+                    "m_playbackTime": 39.88245407119393
+                },
+                {
+                    "m_cameraId": "Canvas_7",
+                    "m_displayName": "V.A - 4K C Dan V1 technicalmap Part.2 (YUJI) [17th Dan  Mercilessness].osu",
+                    "m_filePath": "V.A - 4K C Dan V1 technicalmap Part.2 (YUJI) [17th Dan  Mercilessness].osu",
+                    "m_playbackTime": 50.0438125
+                },
+                {
+                    "m_cameraId": "Canvas_8",
+                    "m_displayName": "V.A. - 4K C Dan V1 Technicalmap Part.2 (xiang_233) [14th Dan  Rimikkusutato].osu",
+                    "m_filePath": "V.A. - 4K C Dan V1 Technicalmap Part.2 (xiang_233) [14th Dan  Rimikkusutato].osu",
+                    "m_playbackTime": 48.768
+                }
+            ],
+            "m_overlapCheckOpen": false,
+            "m_sidebarActiveTab": "AudioExplorer",
+            "m_timingPointsTableOpen": false,
+            "m_toolbarState": {
+                "m_beatDivisor": 4,
+                "m_drawBeatLines": true,
+                "m_enableHitEffects": true,
+                "m_enableLinearScrollMapping": false,
+                "m_reverseScroll": false,
+                "m_scrollSnap": true,
+                "m_snapFloor": false,
+                "m_stopPlaybackOnScroll": false,
+                "m_syncSameMainAudioCanvases": true,
+                "m_timelineZoom": 0.8999999761581421,
+                "m_valid": true
+            }
+        }
+    }
+}

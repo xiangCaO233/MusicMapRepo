@@ -1,0 +1,69 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "t+pazolite - Contrapasso -paradiso-.mp3",
+            "m_path": "t+pazolite - Contrapasso -paradiso-.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "t+pazolite - Contrapasso -paradiso-.wav",
+            "m_path": "t+pazolite - Contrapasso -paradiso-.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "work.wav",
+            "m_path": "work.wav",
+            "m_type": "Effect"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "t+pazolite - Contrapasso -paradiso-.mp3",
+            "m_filePath": "t+pazolite - Contrapasso -paradiso-_4k_hd.mmm",
+            "m_name": "hd"
+        }
+    ],
+    "m_excludedAudioPaths": [],
+    "m_excludedBeatmapPaths": [],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Contrapasso -paradiso-",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

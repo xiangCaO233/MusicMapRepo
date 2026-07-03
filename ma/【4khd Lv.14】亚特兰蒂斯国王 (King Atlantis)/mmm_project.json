@@ -1,0 +1,67 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis).mp3",
+            "m_path": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis).mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis).ogg",
+            "m_path": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis).ogg",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis).mp3",
+            "m_filePath": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis)_4k_hd.imd",
+            "m_name": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis)_4k_hd.imd"
+        },
+        {
+            "m_audioTrackId": "C:\\Users\\BBBassor\\OneDrive\\谱子\\【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis)\\【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis).mp3",
+            "m_filePath": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis)_4k_hd.mmm",
+            "m_name": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis)_4k_hd.mmm"
+        },
+        {
+            "m_audioTrackId": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis).mp3",
+            "m_filePath": "KingAtlantismc.mc",
+            "m_name": "KingAtlantismc.mc"
+        },
+        {
+            "m_audioTrackId": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis).mp3",
+            "m_filePath": "KingAtlantismc.mmm",
+            "m_name": "KingAtlantismc.mmm"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "【4khd Lv.14】亚特兰蒂斯国王 (King Atlantis)",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

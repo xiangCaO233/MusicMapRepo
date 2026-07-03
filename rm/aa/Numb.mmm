@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "base": {
+            "artist": "Juggernaut.",
+            "artist_unicode": "Juggernaut.",
+            "audio": "Juggernaut. - Numb.flac",
+            "author": "Unknown",
+            "bpm": 175.0,
+            "cover": "",
+            "cover_img": "",
+            "duration": 275.13972789115644,
+            "name": "Numb",
+            "title": "Numb",
+            "title_unicode": "Numb",
+            "track_count": 4,
+            "version": "Easy"
+        },
+        "extra": []
+    },
+    "note": [],
+    "timing": [
+        {
+            "beat_length": 342.85714285714283,
+            "bpm": 175.0,
+            "effect": "bpm",
+            "extra": [],
+            "param": 175.0,
+            "timestamp": 168.75995352528514
+        }
+    ]
+}

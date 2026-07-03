@@ -1,0 +1,79 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "eqBandQs": [
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754
+                ],
+                "eqEnabled": true,
+                "eqPreset": 1,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.4000000059604645
+            },
+            "m_id": "audio.ogg",
+            "m_path": "audio.ogg",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "soft-hitnormal.ogg",
+            "m_path": "soft-hitnormal.ogg",
+            "m_type": "Effect"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "Designant - Designant. (Benson_) [Designant].osu",
+            "m_name": "Designant - Designant. (Benson_) [Designant].osu"
+        },
+        {
+            "m_audioTrackId": "audio.ogg",
+            "m_filePath": "Designant - Designant.(Benson_)[saved Designant].osu",
+            "m_name": "Designant - Designant.(Benson_)[saved Designant].osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Designant - Designant",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

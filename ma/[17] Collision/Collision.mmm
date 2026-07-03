@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "base": {
+            "artist": "va",
+            "artist_unicode": "va",
+            "audio": "Collision.mp3",
+            "author": "Unknown",
+            "bpm": 120.0,
+            "cover": "",
+            "duration": 183.9632,
+            "name": "Collision",
+            "title": "Collision",
+            "title_unicode": "Collision",
+            "track_count": 4,
+            "version": "Easy"
+        },
+        "extra": []
+    },
+    "note": [],
+    "timing": []
+}

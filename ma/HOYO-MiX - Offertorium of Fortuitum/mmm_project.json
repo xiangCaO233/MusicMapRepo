@@ -1,0 +1,93 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Offertorium of Fortuitum.ogg",
+            "m_path": "Offertorium of Fortuitum.ogg",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Offertorium of Fortuitum.ogg",
+            "m_filePath": "1746266357.mc",
+            "m_name": "1746266357.mc"
+        },
+        {
+            "m_audioTrackId": "Offertorium of Fortuitum.ogg",
+            "m_filePath": "1747316264.mc",
+            "m_name": "1747316264.mc"
+        },
+        {
+            "m_audioTrackId": "Offertorium of Fortuitum.ogg",
+            "m_filePath": "1747469179.mc",
+            "m_name": "1747469179.mc"
+        },
+        {
+            "m_audioTrackId": "Offertorium of Fortuitum.ogg",
+            "m_filePath": "1747472977.mc",
+            "m_name": "1747472977.mc"
+        }
+    ],
+    "m_excludedAudioPaths": [],
+    "m_excludedBeatmapPaths": [],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "HOYO-MiX - Offertorium of Fortuitum",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "1746266357.mc",
+        "m_noteColorPaletteSchemeName": "",
+        "m_visualOverride": null,
+        "m_workspace": {
+            "m_activeBeatmapPath": "",
+            "m_activeEditTool": "Move",
+            "m_activePlaybackTime": 0.0,
+            "m_audioControllers": [],
+            "m_audioSpectrumOpen": false,
+            "m_audioWaveformOpen": false,
+            "m_bpmMeasurementAudioTrackId": "",
+            "m_bpmMeasurementToolOpen": false,
+            "m_imguiIniData": "[Window][SideBarManager]\nPos=74,39\nSize=462,822\nCollapsed=0\nDockId=0x00000001,0\n\n[Window][Timeline]\nPos=1015,39\nSize=200,822\nCollapsed=0\nDockId=0x00000006,0\n\n[Window][Basic2DCanvas]\nCollapsed=0\nDockId=0x00000005\n\n[Window][PreviewWindow]\nPos=1223,39\nSize=113,822\nCollapsed=0\nDockId=0x00000004,0\n\n[Window][Canvas_0]\nPos=544,39\nSize=463,822\nCollapsed=0\nDockId=0x00000005,0\n\n[Window][StatusBar]\nPos=0,869\nSize=1400,31\nCollapsed=0\n\n[Window][RightDockHost]\nPos=74,39\nSize=1262,822\nCollapsed=0\n\n[Window][Debug##Default]\nPos=60,60\nSize=400,400\nCollapsed=0\n\n[Window][TopMenuBarHost]\nPos=0,0\nSize=1400,31\nCollapsed=0\n\n[Window][Toolbar]\nPos=1344,39\nSize=48,822\nCollapsed=0\n\n[Window][BpmMeasurementToolWindow]\nPos=146,128\nSize=1542,834\nCollapsed=0\n\n[Window][TimingPointsTable]\nPos=60,60\nSize=650,450\nCollapsed=0\n\n[Window][Canvas_1]\nPos=624,39\nSize=973,1120\nCollapsed=0\n\n[Window][Canvas_2]\nPos=602,39\nSize=995,1120\nCollapsed=0\n\n[Window][打开文件夹##ProjectFolderPicker]\nPos=340,160\nSize=600,400\nCollapsed=0\n\n[Window][ExitConfirmation]\nPos=874,534\nSize=445,129\nCollapsed=0\n\n[Window][Canvas_3]\nPos=602,39\nSize=328,1120\nCollapsed=0\n\n[Window][1692193425.ogg]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][1763798018.ogg]\nPos=130,39\nSize=347,1120\nCollapsed=0\n\n[Window][AudioSpectrumViewGlobal]\nPos=540,39\nSize=309,1120\nCollapsed=0\n\n[Window][SpectrumCalcModal]\nPos=889,539\nSize=416,120\nCollapsed=0\n\n[Window][TrackController_1763798018.ogg]\nPos=130,39\nSize=486,642\nCollapsed=0\n\n[Window][BpmMeasurementTool]\nPos=276,58\nSize=955,810\nCollapsed=0\n\n[Window][TrackController_metronome.beat_low]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][TrackController_hiteffect.flick]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][TrackController_hiteffect.note]\nPos=69,200\nSize=400,500\nCollapsed=0\n\n[Window][TimelineEventEditor]\nPos=947,466\nSize=300,266\nCollapsed=0\n\n[Window][TrackController_metronome.downbeat_high]\nPos=60,60\nSize=400,500\nCollapsed=0\n\n[Window][TimingPointsTableWindow]\nPos=148,245\nSize=836,512\nCollapsed=0\n\n[Window][Canvas_4]\nPos=582,39\nSize=312,1120\nCollapsed=0\n\n[Window][SettingsWindow]\nPos=480,39\nSize=527,822\nCollapsed=0\nDockId=0x00000005,1\n\n[Window][MetadataEditorWindow]\nPos=60,60\nSize=1546,959\nCollapsed=0\n\n[Window][MetadataJsonEditorPopup]\nPos=518,349\nSize=694,726\nCollapsed=0\n\n[Window][NoteMetadataEditorWindow]\nPos=165,252\nSize=750,500\nCollapsed=0\n\n[Window][OsuMetadataTextEditorPopup]\nPos=422,405\nSize=744,560\nCollapsed=0\n\n[Window][另存为...##SaveAsFilePicker]\nPos=797,399\nSize=600,400\nCollapsed=0\n\n[Window][ExportWarningModal]\nPos=727,433\nSize=740,310\nCollapsed=0\n\n[Window][检查更新]\nPos=571,310\nSize=186,135\nCollapsed=0\n\n[Window][ExportFormatPickerModal]\nPos=939,430\nSize=316,337\nCollapsed=0\n\n[Window][TrackController_audio.mp3]\nPos=658,39\nSize=939,1120\nCollapsed=0\n\n[Window][TimelineCreateEvent]\nPos=922,386\nSize=350,425\nCollapsed=0\n\n[Window][Canvas_5]\nPos=929,606\nSize=281,553\nCollapsed=0\n\n[Window][Canvas_6]\nPos=634,606\nSize=287,553\nCollapsed=0\n\n[Window][Canvas_7]\nPos=1218,606\nSize=288,553\nCollapsed=0\n\n[Window][Canvas_8]\nPos=634,39\nSize=292,559\nCollapsed=0\n\n[Window][OverlapCheckWindow]\nPos=108,152\nSize=550,450\nCollapsed=0\n\n[Window][PackageFormatPickerModal]\nPos=929,452\nSize=336,294\nCollapsed=0\n\n[Window][Canvas_9]\nPos=634,39\nSize=1153,1078\nCollapsed=0\n\n[Window][TrackController_1752147431.ogg]\nPos=544,40\nSize=433,957\nCollapsed=0\n\n[Window][BeatmapSpeedExportModal]\nPos=887,465\nSize=419,347\nCollapsed=0\n\n[Window][ui.tools.bpm_measure.auto_apply_title]\nPos=965,228\nSize=264,112\nCollapsed=0\n\n[Window][是否应用该偏移]\nPos=965,220\nSize=264,129\nCollapsed=0\n\n[Window][应用BPM测量结果]\nPos=909,520\nSize=376,157\nCollapsed=0\n\n[Window][TrackController_Juggernaut. - Numb.flac]\nPos=482,39\nSize=397,822\nCollapsed=0\n\n[Table][0x57CA6EA9,2]\nRefScale=17\nColumn 0  Weight=1.0000\nColumn 1  Width=285\n\n[Table][0xF29E6D0B,5]\nRefScale=17\nColumn 0  Width=40\nColumn 1  Weight=1.0000\nColumn 2  Width=80\nColumn 3  Weight=1.0000\nColumn 4  Width=130\n\n[Table][0xE15A46BA,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0x509F4C05,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0x45AA9718,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0xC9BA8E4E,2]\nRefScale=17\n\n[Table][0x6C5DA0D8,5]\nRefScale=17\nColumn 0  Width=40\nColumn 1  Weight=1.0000\nColumn 2  Width=80\nColumn 3  Weight=1.0000\nColumn 4  Width=130\n\n[Table][0xB7AB2B70,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0xCABA0E71,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Table][0x648B72EA,4]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=250\nColumn 3  Width=130\n\n[Table][0x8A86DDC6,4]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=232\nColumn 3  Width=148\n\n[Table][0xCCDEDC92,3]\nRefScale=21\nColumn 0  Width=170\nColumn 1  Weight=1.0000\nColumn 2  Width=70\n\n[Table][0x55D78E6E,3]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=130\n\n[Table][0x56B9A93D,3]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=130\n\n[Table][0x85011CAA,3]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=130\n\n[Table][0xF276E7FE,4]\nRefScale=21\nColumn 0  Width=220\nColumn 1  Weight=1.0000\nColumn 2  Width=250\nColumn 3  Width=130\n\n[Table][0x884EBB87,4]\nRefScale=17\nColumn 0  Sort=0v\n\n[Docking][Data]\nDockSpace       ID=0x388F2491 Window=0xD7F8C01D Pos=74,39 Size=1262,822 Split=X\n  DockNode      ID=0x00000001 Parent=0x388F2491 SizeRef=462,822 Selected=0x47BFFBC9\n  DockNode      ID=0x00000002 Parent=0x388F2491 SizeRef=1,822 Split=X\n    DockNode    ID=0x00000003 Parent=0x00000002 SizeRef=735,822 Split=X\n      DockNode  ID=0x00000005 Parent=0x00000003 SizeRef=527,822 CentralNode=1 Selected=0xBAFC3645\n      DockNode  ID=0x00000006 Parent=0x00000003 SizeRef=200,822 Selected=0x4F89F0DC\n    DockNode    ID=0x00000004 Parent=0x00000002 SizeRef=113,822 Selected=0x85F72C45\n\n",
+            "m_mainWindow": {
+                "m_height": 900,
+                "m_maximized": false,
+                "m_valid": true,
+                "m_width": 1400,
+                "m_x": 0,
+                "m_y": 0
+            },
+            "m_metadataEditorOpen": false,
+            "m_noteMetadataEditorOpen": false,
+            "m_openBeatmaps": [],
+            "m_overlapCheckOpen": false,
+            "m_sidebarActiveTab": "FileExplorer",
+            "m_timingPointsTableOpen": false,
+            "m_toolbarState": {
+                "m_beatDivisor": 4,
+                "m_drawBeatLines": true,
+                "m_enableHitEffects": true,
+                "m_enableLinearScrollMapping": false,
+                "m_reverseScroll": false,
+                "m_scrollSnap": true,
+                "m_snapFloor": false,
+                "m_stopPlaybackOnScroll": false,
+                "m_syncSameMainAudioCanvases": true,
+                "m_timelineZoom": 0.18000000715255737,
+                "m_valid": true
+            }
+        }
+    }
+}

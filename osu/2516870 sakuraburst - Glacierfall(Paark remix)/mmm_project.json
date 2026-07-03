@@ -1,0 +1,84 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [
+                    9.0,
+                    9.5,
+                    9.5,
+                    6.499998092651367,
+                    8.5,
+                    6.0,
+                    3.0,
+                    1.5,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "eqBandQs": [
+                    1.0726203918457031,
+                    0.9019309878349304,
+                    0.7312415242195129,
+                    0.9019309878349304,
+                    0.7312415242195129,
+                    1.0726203918457031,
+                    1.0726203918457031,
+                    1.0726203918457031,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754
+                ],
+                "eqEnabled": true,
+                "eqPreset": 2,
+                "muted": false,
+                "playbackPitch": -5.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.4000000059604645
+            },
+            "m_id": "Sakuraburst - Glacierfall (Paark Remix).ogg",
+            "m_path": "Sakuraburst - Glacierfall (Paark Remix).ogg",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Sakuraburst - Glacierfall (Paark Remix).ogg",
+            "m_filePath": "sakuraburst - Glacierfall(Paark remix) (WorstSVplayer) [nsv].osu",
+            "m_name": "sakuraburst - Glacierfall(Paark remix) (WorstSVplayer) [nsv].osu"
+        },
+        {
+            "m_audioTrackId": "Sakuraburst - Glacierfall (Paark Remix).ogg",
+            "m_filePath": "sakuraburst - Glacierfall(Paark remix) (WorstSVplayer) [sv].osu",
+            "m_name": "sakuraburst - Glacierfall(Paark remix) (WorstSVplayer) [sv].osu"
+        },
+        {
+            "m_audioTrackId": "",
+            "m_filePath": "Sakuraburst-Glacierfall(PaarkRemix).imd",
+            "m_name": "Sakuraburst-Glacierfall(PaarkRemix).imd"
+        },
+        {
+            "m_audioTrackId": "",
+            "m_filePath": "Sakuraburst-Glacierfall(PaarkRemix)_1.imd",
+            "m_name": "Sakuraburst-Glacierfall(PaarkRemix)_1.imd"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "2516870 sakuraburst - Glacierfall(Paark remix)",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

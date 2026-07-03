@@ -1,0 +1,2672 @@
+{
+    "metadata": {
+        "base": {
+            "artist": "Azari",
+            "artist_unicode": "Azari",
+            "audio": "audio.mp3",
+            "author": "Unknown",
+            "bpm": 180.0000000000002,
+            "cover": "BG.jpg",
+            "cover_img": "BG.jpg",
+            "duration": 137163.0,
+            "name": "New Beatmap",
+            "title": "Sell a Friend",
+            "title_unicode": "Sell a Friend",
+            "track_count": 6,
+            "version": "Easy"
+        },
+        "extra": [
+            {
+                "osu": {
+                    "Difficulty::ApproachRate": "9.3",
+                    "Difficulty::CircleSize": "4",
+                    "Difficulty::HPDrainRate": "6",
+                    "Difficulty::OverallDifficulty": "9.3",
+                    "Difficulty::SliderMultiplier": "1.82",
+                    "Difficulty::SliderTickRate": "1",
+                    "Editor::BeatDivisor": "4",
+                    "Editor::Bookmarks": "5829,137246",
+                    "Editor::DistanceSpacing": "0.6",
+                    "Editor::GridSize": "4",
+                    "Editor::TimelineZoom": "2.3",
+                    "Events::background": "0,0,\"BG.jpg\",0,0",
+                    "Events::breaks": "",
+                    "General::AlwaysShowPlayfield": "false",
+                    "General::AudioFilename": "audio.mp3",
+                    "General::AudioHash": "",
+                    "General::AudioLeadIn": "0",
+                    "General::Countdown": "0",
+                    "General::CountdownOffset": "0",
+                    "General::EpilepsyWarning": "false",
+                    "General::LetterboxInBreaks": "0",
+                    "General::Mode": "0",
+                    "General::OverlayPosition": "NoChange",
+                    "General::PreviewTime": "105079",
+                    "General::SampleSet": "Soft",
+                    "General::SamplesMatchPlaybackRate": "false",
+                    "General::SkinPreference": "",
+                    "General::SpecialStyle": "false",
+                    "General::StackLeniency": "0.5",
+                    "General::StoryFireInFront": "true",
+                    "General::UseSkinSprites": "0",
+                    "General::WidescreenStoryboard": "1",
+                    "Metadata::Artist": "Azari",
+                    "Metadata::ArtistUnicode": "Azari",
+                    "Metadata::BeatmapID": "5699142",
+                    "Metadata::BeatmapSetID": "2563269",
+                    "Metadata::Creator": "Andrea",
+                    "Metadata::Source": "",
+                    "Metadata::Tags": "osuplayer111 Elie Kyss Harumiii Take Amats Fuxi Fuxi66 Laurier MrTerror killian Japanese Electronic Vocaloid Pop JPop J-Pop Synthv Synthesizer ボーカロイド ボカロ 重音テト Kasane Teto",
+                    "Metadata::Title": "Sell a Friend",
+                    "Metadata::TitleUnicode": "Sell a Friend",
+                    "Metadata::Version": "Madness",
+                    "file_format_version": "128\r"
+                }
+            }
+        ]
+    },
+    "note": [
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 496.6666666666676,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 580.0000000000008,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 580.0000000000008,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 663.333333333334,
+                    "track": 5,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 663.333333333334,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 746.6666666666673,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 746.6666666666673,
+                    "track": 3,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 830.0000000000007,
+                    "track": 3,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333314,
+                    "timestamp": 830.0000000000007,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 913.3333333333338,
+                    "track": 2,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 913.3333333333338,
+                    "track": 3,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 996.6666666666671,
+                    "track": 3,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 996.6666666666671,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 1080.0000000000002,
+                    "track": 2,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 1080.0000000000002,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 1163.3333333333335,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 1163.3333333333335,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 1246.6666666666667,
+                    "track": 2,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333326,
+                    "timestamp": 1246.6666666666667,
+                    "track": 3,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 1330.0,
+                    "track": 3,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 496.6666666666676,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 1330.0,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "dtrack": 1,
+            "extra": [],
+            "timestamp": 1663.333333333333,
+            "track": 4,
+            "type": "flick"
+        },
+        {
+            "extra": [],
+            "timestamp": 1829.9999999999995,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 83.33333333333303,
+                    "timestamp": 1996.666666666666,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 2079.999999999999,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333348,
+                    "timestamp": 2079.999999999999,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 2163.3333333333326,
+                    "track": 1,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 1996.666666666666,
+            "track": 0,
+            "type": "polyline"
+        },
+        {
+            "dtrack": -1,
+            "extra": [],
+            "timestamp": 2329.999999999999,
+            "track": 1,
+            "type": "flick"
+        },
+        {
+            "extra": [],
+            "timestamp": 2496.666666666665,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": -1,
+                    "timestamp": 2663.333333333332,
+                    "track": 5,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666606,
+                    "timestamp": 2663.333333333332,
+                    "track": 4,
+                    "type": "hold"
+                }
+            ],
+            "timestamp": 2663.333333333332,
+            "track": 5,
+            "type": "polyline"
+        },
+        {
+            "dtrack": 1,
+            "extra": [],
+            "timestamp": 2996.666666666665,
+            "track": 4,
+            "type": "flick"
+        },
+        {
+            "extra": [],
+            "timestamp": 3163.333333333331,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 3329.9999999999977,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 3496.6666666666642,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "dtrack": -1,
+            "extra": [],
+            "timestamp": 3663.3333333333308,
+            "track": 4,
+            "type": "flick"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 83.33333333333348,
+                    "timestamp": 3663.3333333333308,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 3746.6666666666642,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333303,
+                    "timestamp": 3746.6666666666642,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 3829.9999999999973,
+                    "track": 2,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 3663.3333333333308,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 3996.666666666664,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": 1,
+                    "timestamp": 3996.666666666664,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666652,
+                    "timestamp": 3996.666666666664,
+                    "track": 5,
+                    "type": "hold"
+                }
+            ],
+            "timestamp": 3996.666666666664,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 4329.999999999996,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "dtrack": -1,
+            "extra": [],
+            "timestamp": 4329.999999999996,
+            "track": 1,
+            "type": "flick"
+        },
+        {
+            "extra": [],
+            "timestamp": 4496.666666666663,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 83.33333333333215,
+                    "timestamp": 4663.33333333333,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 4746.666666666662,
+                    "track": 2,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333393,
+                    "timestamp": 4746.666666666662,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 4829.999999999996,
+                    "track": 1,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 4663.33333333333,
+            "track": 2,
+            "type": "polyline"
+        },
+        {
+            "dtrack": 1,
+            "extra": [],
+            "timestamp": 4996.666666666662,
+            "track": 4,
+            "type": "flick"
+        },
+        {
+            "extra": [],
+            "timestamp": 5163.333333333329,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": -1,
+                    "timestamp": 5329.999999999995,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666697,
+                    "timestamp": 5329.999999999995,
+                    "track": 0,
+                    "type": "hold"
+                }
+            ],
+            "timestamp": 5329.999999999995,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 5829.999999999995,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 5829.999999999995,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 5913.3333333333285,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 83.33333333333303,
+                    "timestamp": 5996.6666666666615,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 6079.9999999999945,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333393,
+                    "timestamp": 6079.9999999999945,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 6163.3333333333285,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333303,
+                    "timestamp": 6163.3333333333285,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 6246.6666666666615,
+                    "track": 2,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333303,
+                    "timestamp": 6246.6666666666615,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 6329.9999999999945,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333303,
+                    "timestamp": 6329.9999999999945,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 6413.333333333328,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333393,
+                    "timestamp": 6413.333333333328,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 6496.6666666666615,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333303,
+                    "timestamp": 6496.6666666666615,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 6579.9999999999945,
+                    "track": 2,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.33333333333303,
+                    "timestamp": 6579.9999999999945,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 6663.333333333328,
+                    "track": 1,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 5996.6666666666615,
+            "track": 0,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 5996.6666666666615,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 6163.3333333333285,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 6329.9999999999945,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 6496.6666666666615,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 6663.333333333328,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 6829.999999999994,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 6996.666666666661,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 7163.333333333327,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 7329.999999999994,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 7496.66666666666,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 7496.66666666666,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 7663.333333333327,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 7663.333333333327,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 7829.999999999993,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.66666666666697,
+                    "timestamp": 7829.999999999993,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 7996.66666666666,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666697,
+                    "timestamp": 7996.66666666666,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 8163.333333333327,
+                    "track": 5,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666606,
+                    "timestamp": 8163.333333333327,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 8329.999999999993,
+                    "track": 4,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 7829.999999999993,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 7996.66666666666,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 8163.333333333327,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 8329.999999999993,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 8496.666666666659,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 8496.666666666659,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "duration": 333.3333333333321,
+            "extra": [],
+            "timestamp": 8663.333333333327,
+            "track": 5,
+            "type": "hold"
+        },
+        {
+            "extra": [],
+            "timestamp": 8663.333333333327,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 8829.99999999999,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 8996.666666666659,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 9163.333333333325,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 9163.333333333325,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 333.33333333333394,
+                    "timestamp": 9329.99999999999,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 9663.333333333325,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 333.3333333333321,
+                    "timestamp": 9663.333333333325,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 9996.666666666657,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 333.33333333333394,
+                    "timestamp": 9996.666666666657,
+                    "track": 0,
+                    "type": "hold"
+                }
+            ],
+            "timestamp": 9329.99999999999,
+            "track": 0,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 9329.99999999999,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 9496.666666666657,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 9663.333333333325,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 9829.99999999999,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 9996.666666666657,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 10163.333333333323,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 10329.99999999999,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 10496.666666666657,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 10496.666666666657,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.66666666666606,
+                    "timestamp": 10663.333333333323,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 10829.999999999989,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666785,
+                    "timestamp": 10829.999999999989,
+                    "track": 1,
+                    "type": "hold"
+                }
+            ],
+            "timestamp": 10663.333333333323,
+            "track": 0,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 10663.333333333323,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 10829.999999999989,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 10996.666666666657,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 11163.333333333323,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 11163.333333333323,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": 1,
+                    "timestamp": 11329.999999999989,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666606,
+                    "timestamp": 11329.999999999989,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 11496.666666666655,
+                    "track": 5,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666785,
+                    "timestamp": 11496.666666666655,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 11663.333333333323,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666606,
+                    "timestamp": 11663.333333333323,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 11829.999999999989,
+                    "track": 5,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 11329.999999999989,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 333.33333333333394,
+                    "timestamp": 11329.999999999989,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 11663.333333333323,
+                    "track": 1,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 11329.999999999989,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 11829.999999999989,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 333.3333333333321,
+                    "timestamp": 11996.666666666655,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 12329.999999999987,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 333.33333333333394,
+                    "timestamp": 12329.999999999987,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 12663.333333333321,
+                    "track": 5,
+                    "type": "flick"
+                },
+                {
+                    "duration": 333.3333333333321,
+                    "timestamp": 12663.333333333321,
+                    "track": 4,
+                    "type": "hold"
+                }
+            ],
+            "timestamp": 11996.666666666655,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 11996.666666666655,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 12163.333333333321,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 12329.999999999987,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 12496.666666666655,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 12663.333333333321,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 12829.999999999987,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 12996.666666666653,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 13163.333333333321,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 13163.333333333321,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 13329.999999999987,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": -1,
+                    "timestamp": 13329.999999999987,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666606,
+                    "timestamp": 13329.999999999987,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 13496.666666666653,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666606,
+                    "timestamp": 13496.666666666653,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 13663.33333333332,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.66666666666785,
+                    "timestamp": 13663.33333333332,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 13829.999999999987,
+                    "track": 0,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 13329.999999999987,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 13496.666666666653,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 13663.33333333332,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 13829.999999999987,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 13996.666666666653,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "duration": 333.3333333333321,
+            "extra": [],
+            "timestamp": 13996.666666666653,
+            "track": 1,
+            "type": "hold"
+        },
+        {
+            "extra": [],
+            "timestamp": 14163.33333333332,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 14329.999999999985,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 14496.666666666653,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 14496.666666666653,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 333.3333333333321,
+                    "timestamp": 14663.33333333332,
+                    "track": 3,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 14996.666666666652,
+                    "track": 3,
+                    "type": "flick"
+                },
+                {
+                    "duration": 333.33333333333394,
+                    "timestamp": 14996.666666666652,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 15329.999999999985,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 333.3333333333321,
+                    "timestamp": 15329.999999999985,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 15663.333333333318,
+                    "track": 5,
+                    "type": "flick"
+                },
+                {
+                    "duration": 333.33333333333394,
+                    "timestamp": 15663.333333333318,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 15996.666666666652,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 333.3333333333321,
+                    "timestamp": 15996.666666666652,
+                    "track": 5,
+                    "type": "hold"
+                }
+            ],
+            "timestamp": 14663.33333333332,
+            "track": 3,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 14663.33333333332,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 14829.999999999985,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 14996.666666666652,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 15163.333333333318,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 15329.999999999985,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 15496.666666666652,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 15663.333333333318,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 15829.999999999984,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 15996.666666666652,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16163.33333333332,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16329.999999999984,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16496.66666666665,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16496.66666666665,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16579.999999999985,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16663.33333333332,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16663.33333333332,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16746.66666666665,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16829.999999999985,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16829.999999999985,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16913.333333333318,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16996.66666666665,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 16996.66666666665,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 17079.999999999985,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 17163.333333333318,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 17163.333333333318,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 47996.66666666661,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": -1,
+                    "timestamp": 47996.66666666661,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 500.0,
+                    "timestamp": 47996.66666666661,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 48496.66666666661,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.3333333333357,
+                    "timestamp": 48496.66666666661,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 48579.99999999995,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.3333333333357,
+                    "timestamp": 48579.99999999995,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 48663.333333333285,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 48663.333333333285,
+                    "track": 1,
+                    "type": "hold"
+                }
+            ],
+            "timestamp": 47996.66666666661,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 48079.99999999995,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48163.333333333285,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48329.99999999995,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48496.66666666661,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48663.333333333285,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48746.66666666661,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48829.99999999995,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48913.333333333285,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48996.66666666661,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 48996.66666666661,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49079.99999999995,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49163.333333333285,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49163.333333333285,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49246.66666666661,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49246.66666666661,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "duration": 333.3333333333286,
+            "extra": [],
+            "timestamp": 49329.99999999995,
+            "track": 5,
+            "type": "hold"
+        },
+        {
+            "duration": 333.3333333333286,
+            "extra": [],
+            "timestamp": 49329.99999999995,
+            "track": 3,
+            "type": "hold"
+        },
+        {
+            "extra": [],
+            "timestamp": 49829.99999999995,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49829.99999999995,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49996.66666666661,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49996.66666666661,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49996.66666666661,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50079.99999999995,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50079.99999999995,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50079.99999999995,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50163.33333333328,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50163.33333333328,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50163.33333333328,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50496.66666666661,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50496.66666666661,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50496.66666666661,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50663.33333333328,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50663.33333333328,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 50663.33333333328,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51163.33333333328,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51163.33333333328,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51163.33333333328,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51246.66666666661,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51246.66666666661,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51246.66666666661,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51329.99999999995,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51329.99999999995,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51329.99999999995,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51413.33333333328,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51413.33333333328,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51496.66666666661,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51496.66666666661,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51579.99999999995,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51663.33333333328,
+            "track": 5,
+            "type": "note"
+        }
+    ],
+    "timing": [
+        {
+            "beat_length": 333.333333333333,
+            "bpm": 180.0000000000002,
+            "effect": "bpm",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "50"
+                    }
+                }
+            ],
+            "param": 180.0000000000002,
+            "timestamp": 1330.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 5829.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 6663.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 6913.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 6996.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 12246.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 12329.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 22913.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 22996.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 27996.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 30246.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 30329.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 35579.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 35663.0
+        },
+        {
+            "beat_length": 0.5999999999999988,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "50"
+                    }
+                }
+            ],
+            "param": 0.5999999999999988,
+            "timestamp": 38663.0
+        },
+        {
+            "beat_length": 0.5999999999999988,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 0.5999999999999988,
+            "timestamp": 39163.0
+        },
+        {
+            "beat_length": 0.5999999999999988,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "50"
+                    }
+                }
+            ],
+            "param": 0.5999999999999988,
+            "timestamp": 39329.0
+        },
+        {
+            "beat_length": 0.5999999999999988,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 0.5999999999999988,
+            "timestamp": 39829.0
+        },
+        {
+            "beat_length": 0.5999999999999988,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "50"
+                    }
+                }
+            ],
+            "param": 0.5999999999999988,
+            "timestamp": 39996.0
+        },
+        {
+            "beat_length": 0.5999999999999988,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 0.5999999999999988,
+            "timestamp": 41579.0
+        },
+        {
+            "beat_length": 0.5999999999999988,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "50"
+                    }
+                }
+            ],
+            "param": 0.5999999999999988,
+            "timestamp": 41663.0
+        },
+        {
+            "beat_length": 0.6499999999999994,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "50"
+                    }
+                }
+            ],
+            "param": 0.6499999999999994,
+            "timestamp": 42663.0
+        },
+        {
+            "beat_length": 0.8,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.8,
+            "timestamp": 43996.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 45329.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 46663.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "40"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 49329.0
+        },
+        {
+            "beat_length": 1.2000000000000004,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 1.2000000000000004,
+            "timestamp": 51663.0
+        },
+        {
+            "beat_length": 1.2000000000000004,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 1.2000000000000004,
+            "timestamp": 51913.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 51996.0
+        },
+        {
+            "beat_length": 1.4999999999999993,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 1.4999999999999993,
+            "timestamp": 61329.0
+        },
+        {
+            "beat_length": 1.4999999999999993,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 1.4999999999999993,
+            "timestamp": 61579.0
+        },
+        {
+            "beat_length": 1.4999999999999993,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 1.4999999999999993,
+            "timestamp": 61663.0
+        },
+        {
+            "beat_length": 1.4999999999999993,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 1.4999999999999993,
+            "timestamp": 61913.0
+        },
+        {
+            "beat_length": 1.4999999999999993,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 1.4999999999999993,
+            "timestamp": 61996.0
+        },
+        {
+            "beat_length": 1.1,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "1",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "80"
+                    }
+                }
+            ],
+            "param": 1.1,
+            "timestamp": 62663.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "50"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 73329.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 83996.0
+        },
+        {
+            "beat_length": 1.0,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 1.0,
+            "timestamp": 93329.0
+        },
+        {
+            "beat_length": 0.580000000000001,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.580000000000001,
+            "timestamp": 94663.0
+        },
+        {
+            "beat_length": 0.8,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.8,
+            "timestamp": 97329.0
+        },
+        {
+            "beat_length": 0.8,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "5"
+                    }
+                }
+            ],
+            "param": 0.8,
+            "timestamp": 99913.0
+        },
+        {
+            "beat_length": 0.627906976744183,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.627906976744183,
+            "timestamp": 99996.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 102663.0
+        },
+        {
+            "beat_length": 1.1,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "1",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "80"
+                    }
+                }
+            ],
+            "param": 1.1,
+            "timestamp": 105329.0
+        },
+        {
+            "beat_length": 1.1,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "80"
+                    }
+                }
+            ],
+            "param": 1.1,
+            "timestamp": 115913.0
+        },
+        {
+            "beat_length": 1.1500000000000006,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "1",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "80"
+                    }
+                }
+            ],
+            "param": 1.1500000000000006,
+            "timestamp": 115996.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "50"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 126663.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "60"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 135996.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "70"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 136662.0
+        },
+        {
+            "beat_length": 0.9000000000000009,
+            "bpm": 180.0000000000002,
+            "effect": "scroll",
+            "extra": [
+                {
+                    "osu": {
+                        "beat": "4",
+                        "effect": "0",
+                        "sampleparameter": "1",
+                        "sampleset": "2",
+                        "volume": "80"
+                    }
+                }
+            ],
+            "param": 0.9000000000000009,
+            "timestamp": 136996.0
+        }
+    ]
+}

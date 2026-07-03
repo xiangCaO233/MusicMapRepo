@@ -1,0 +1,177 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "audio.mp3.wav",
+            "m_path": "audio.mp3.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "clang.wav",
+            "m_path": "clang.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "pong.wav",
+            "m_path": "pong.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "pong2.wav",
+            "m_path": "pong2.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "soft-hitfinish.wav",
+            "m_path": "soft-hitfinish.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "soft-hitnormal.wav",
+            "m_path": "soft-hitnormal.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "soft-hitwhistle.wav",
+            "m_path": "soft-hitwhistle.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "work.wav",
+            "m_path": "work.wav",
+            "m_type": "Effect"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "Risshuu feat. Choko - Take (LNP-) [Beginning].osu",
+            "m_name": "Risshuu feat. Choko - Take (LNP-) [Beginning].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "Risshuu feat. Choko - Take (LNP-) [Beyond].osu",
+            "m_name": "Risshuu feat. Choko - Take (LNP-) [Beyond].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "Risshuu feat. Choko - Take (LNP-) [Future].osu",
+            "m_name": "Risshuu feat. Choko - Take (LNP-) [Future].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "Risshuu feat. Choko - Take (LNP-) [Past].osu",
+            "m_name": "Risshuu feat. Choko - Take (LNP-) [Past].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "Risshuu feat. Choko - Take (LNP-) [Present].osu",
+            "m_name": "Risshuu feat. Choko - Take (LNP-) [Present].osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Risshuu feat. Choko - Take",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

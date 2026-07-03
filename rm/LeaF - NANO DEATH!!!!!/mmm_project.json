@@ -1,0 +1,472 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "A#3S_Bb3S_s.wav",
+            "m_path": "A#3S_Bb3S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "A#4S_Bb4S_s.wav",
+            "m_path": "A#4S_Bb4S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "B3S_s.wav",
+            "m_path": "B3S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "B4S_s.wav",
+            "m_path": "B4S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "C#3S_Db3S_s.wav",
+            "m_path": "C#3S_Db3S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "C#4S_Db4S_s.wav",
+            "m_path": "C#4S_Db4S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "C#5S_Db5S_s.wav",
+            "m_path": "C#5S_Db5S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "D#3S_Eb3S_s.wav",
+            "m_path": "D#3S_Eb3S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "D#5S_Eb5S_s.wav",
+            "m_path": "D#5S_Eb5S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "D#6S_Eb6S_s.wav",
+            "m_path": "D#6S_Eb6S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "F#3S_Gb3S_s.wav",
+            "m_path": "F#3S_Gb3S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "F#4S_Gb4S_s.wav",
+            "m_path": "F#4S_Gb4S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "F#5S_Gb5S_s.wav",
+            "m_path": "F#5S_Gb5S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "F5S_s.wav",
+            "m_path": "F5S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "G#3S_Ab3S_s.wav",
+            "m_path": "G#3S_Ab3S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "G#4S_Ab4S_s.wav",
+            "m_path": "G#4S_Ab4S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "G#5S_Ab5S_s.wav",
+            "m_path": "G#5S_Ab5S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "G5S_s.wav",
+            "m_path": "G5S_s.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "LR3_Snare WRH.wav",
+            "m_path": "LR3_Snare WRH.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "LR_Hat Normal.wav",
+            "m_path": "LR_Hat Normal.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "LR_Kick Hard Fast.wav",
+            "m_path": "LR_Kick Hard Fast.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "LR_Kick Normal .wav",
+            "m_path": "LR_Kick Normal .wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "LR_Snare Hit.wav",
+            "m_path": "LR_Snare Hit.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "LR_Tom Hit 3.wav",
+            "m_path": "LR_Tom Hit 3.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 0.75,
+                "volume": 0.6499999761581421
+            },
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "audio.mp3.wav",
+            "m_path": "audio.mp3.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "cymbol.wav",
+            "m_path": "cymbol.wav",
+            "m_type": "Effect"
+        },
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "work.wav",
+            "m_path": "work.wav",
+            "m_type": "Effect"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "LeaF - NANO DEATH!!!!! (nowsmart) [DEATH].osu",
+            "m_name": "LeaF - NANO DEATH!!!!! (nowsmart) [DEATH].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "LeaF - NANO DEATH!!!!! (nowsmart) [Expert].osu",
+            "m_name": "LeaF - NANO DEATH!!!!! (nowsmart) [Expert].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "LeaF - NANO DEATH!!!!! (nowsmart) [Extra].osu",
+            "m_name": "LeaF - NANO DEATH!!!!! (nowsmart) [Extra].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "LeaF - NANO DEATH!!!!! (nowsmart) [Insane].osu",
+            "m_name": "LeaF - NANO DEATH!!!!! (nowsmart) [Insane].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "LeaF - NANO DEATH!!!!! (nowsmart) [Leah's Hard].osu",
+            "m_name": "LeaF - NANO DEATH!!!!! (nowsmart) [Leah's Hard].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "LeaF - NANO DEATH!!!!! (nowsmart) [W. Armato's Easy].osu",
+            "m_name": "LeaF - NANO DEATH!!!!! (nowsmart) [W. Armato's Easy].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "LeaF - NANO DEATH!!!!! (nowsmart) [ajee's Normal].osu",
+            "m_name": "LeaF - NANO DEATH!!!!! (nowsmart) [ajee's Normal].osu"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "LeaF - NANO DEATH!!!!!",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

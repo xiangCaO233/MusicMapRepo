@@ -1,0 +1,42 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "1604814780.ogg",
+            "m_path": "1604814780.ogg",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "1604814780.ogg",
+            "m_filePath": "1611196146.mc",
+            "m_name": "1611196146.mc"
+        },
+        {
+            "m_audioTrackId": "1604814780.ogg",
+            "m_filePath": "1604814780.mmm",
+            "m_name": "1604814780.mmm"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Cutter",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

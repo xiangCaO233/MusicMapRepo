@@ -1,0 +1,74 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "eqBandQs": [
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754,
+                    1.4140000343322754
+                ],
+                "eqEnabled": true,
+                "eqPreset": 1,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "audio.mp3",
+            "m_path": "audio.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "Linear Ring - Enchanted Love (Kamikho) [Lovely SV].osu",
+            "m_name": "Linear Ring - Enchanted Love (Kamikho) [Lovely SV].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "linear ring - Enchanted Love (Kamikho) [Edit].osu",
+            "m_name": "linear ring - Enchanted Love (Kamikho) [Edit].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "linear ring - Enchanted Love (Kamikho) [Nerfed].osu",
+            "m_name": "linear ring - Enchanted Love (Kamikho) [Nerfed].osu"
+        },
+        {
+            "m_audioTrackId": "audio.mp3",
+            "m_filePath": "linear ring - Enchanted Love (Kamikho) [Edit].mmm",
+            "m_name": "linear ring - Enchanted Love (Kamikho) [Edit].mmm"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "linear ring - Enchanted Love",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

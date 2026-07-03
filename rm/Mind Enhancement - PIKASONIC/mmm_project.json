@@ -1,0 +1,42 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "Mind Enhancement - PIKASONIC.mp3",
+            "m_path": "Mind Enhancement - PIKASONIC.mp3",
+            "m_type": "Main"
+        }
+    ],
+    "m_beatmaps": [
+        {
+            "m_audioTrackId": "Mind Enhancement - PIKASONIC.mp3",
+            "m_filePath": "MindEnhancement-PIKASONIC.mmm",
+            "m_name": "MindEnhancement-PIKASONIC.mmm"
+        },
+        {
+            "m_audioTrackId": "Mind Enhancement - PIKASONIC.mp3",
+            "m_filePath": "MindEnhancement-PIKASONIC.mc",
+            "m_name": "MindEnhancement-PIKASONIC.mc"
+        }
+    ],
+    "m_metadata": {
+        "m_artist": "Unknown",
+        "m_mapper": "Unknown",
+        "m_title": "Mind Enhancement - PIKASONIC",
+        "m_version": "1.0.0"
+    },
+    "m_settings": {
+        "m_editorOverride": null,
+        "m_lastOpenedBeatmap": "",
+        "m_visualOverride": null
+    }
+}

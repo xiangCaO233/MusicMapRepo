@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "base": {
+            "artist": "asd",
+            "artist_unicode": "asd",
+            "audio": "淵底のグレイ・ユークロニア.mp3",
+            "author": "xiang",
+            "bpm": 120.0,
+            "cover": "淵底のグレイ・ユークロニア.png",
+            "duration": 147.271833,
+            "name": "淵底のグレイ・ユークロニア",
+            "title": "淵底のグレイ・ユークロニア",
+            "title_unicode": "淵底のグレイ・ユークロニア",
+            "track_count": 4,
+            "version": "Easy"
+        },
+        "extra": []
+    },
+    "note": [],
+    "timing": []
+}
