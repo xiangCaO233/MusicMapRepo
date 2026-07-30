@@ -1,0 +1,19 @@
+{
+    "m_audioResources": [
+        {
+            "m_config": {
+                "eqBandGains": [],
+                "eqBandQs": [],
+                "eqEnabled": false,
+                "eqPreset": 0,
+                "muted": false,
+                "playbackPitch": 0.0,
+                "playbackSpeed": 1.0,
+                "volume": 0.5
+            },
+            "m_id": "ぴょん (feat. 初音ミク & 重音テト).mp3",
+            "m_path": "ぴょん (feat. 初音ミク & 重音テト).mp3",
+            "m_type": "Main"
+        }
+    ]
+}

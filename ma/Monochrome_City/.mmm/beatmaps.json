@@ -1,0 +1,32 @@
+{
+    "m_beatmaps": [
+        {
+            "m_filePath": "key_4k_easy.mc",
+            "m_name": "key_4k_easy.mc"
+        },
+        {
+            "m_filePath": "key_4k_hard.mc",
+            "m_name": "key_4k_hard.mc"
+        },
+        {
+            "m_filePath": "key_4k_inferno.mc",
+            "m_name": "key_4k_inferno.mc"
+        },
+        {
+            "m_filePath": "key_6k_easy.mc",
+            "m_name": "key_6k_easy.mc"
+        },
+        {
+            "m_filePath": "key_6k_hard.mc",
+            "m_name": "key_6k_hard.mc"
+        },
+        {
+            "m_filePath": "key_6k_inferno.mc",
+            "m_name": "key_6k_inferno.mc"
+        },
+        {
+            "m_filePath": "key_4k_inferno.mmm",
+            "m_name": "key_4k_inferno.mmm"
+        }
+    ]
+}

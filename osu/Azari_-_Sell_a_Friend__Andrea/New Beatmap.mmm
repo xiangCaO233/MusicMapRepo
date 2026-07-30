@@ -196,6 +196,12 @@
         },
         {
             "extra": [],
+            "timestamp": 830.0000000000007,
+            "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
             "timestamp": 1330.0,
             "track": 0,
             "type": "note"
@@ -304,13 +310,6 @@
             "type": "note"
         },
         {
-            "dtrack": -1,
-            "extra": [],
-            "timestamp": 3663.3333333333308,
-            "track": 4,
-            "type": "flick"
-        },
-        {
             "extra": [],
             "sub_notes": [
                 {
@@ -343,10 +342,11 @@
             "type": "polyline"
         },
         {
+            "dtrack": -1,
             "extra": [],
-            "timestamp": 3996.666666666664,
-            "track": 1,
-            "type": "note"
+            "timestamp": 3663.3333333333308,
+            "track": 4,
+            "type": "flick"
         },
         {
             "extra": [],
@@ -367,6 +367,12 @@
             "timestamp": 3996.666666666664,
             "track": 4,
             "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 3996.666666666664,
+            "track": 1,
+            "type": "note"
         },
         {
             "extra": [],
@@ -468,6 +474,12 @@
             "extra": [],
             "timestamp": 5913.3333333333285,
             "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 5996.6666666666615,
+            "track": 3,
             "type": "note"
         },
         {
@@ -576,12 +588,6 @@
         },
         {
             "extra": [],
-            "timestamp": 5996.6666666666615,
-            "track": 3,
-            "type": "note"
-        },
-        {
-            "extra": [],
             "timestamp": 6163.3333333333285,
             "track": 3,
             "type": "note"
@@ -631,25 +637,25 @@
         {
             "extra": [],
             "timestamp": 7496.66666666666,
-            "track": 1,
+            "track": 5,
             "type": "note"
         },
         {
             "extra": [],
             "timestamp": 7496.66666666666,
-            "track": 5,
-            "type": "note"
-        },
-        {
-            "extra": [],
-            "timestamp": 7663.333333333327,
-            "track": 5,
+            "track": 1,
             "type": "note"
         },
         {
             "extra": [],
             "timestamp": 7663.333333333327,
             "track": 0,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 7663.333333333327,
+            "track": 5,
             "type": "note"
         },
         {
@@ -733,17 +739,17 @@
             "type": "note"
         },
         {
+            "extra": [],
+            "timestamp": 8663.333333333327,
+            "track": 0,
+            "type": "note"
+        },
+        {
             "duration": 333.3333333333321,
             "extra": [],
             "timestamp": 8663.333333333327,
             "track": 5,
             "type": "hold"
-        },
-        {
-            "extra": [],
-            "timestamp": 8663.333333333327,
-            "track": 0,
-            "type": "note"
         },
         {
             "extra": [],
@@ -852,13 +858,13 @@
         {
             "extra": [],
             "timestamp": 10496.666666666657,
-            "track": 4,
+            "track": 0,
             "type": "note"
         },
         {
             "extra": [],
             "timestamp": 10496.666666666657,
-            "track": 0,
+            "track": 4,
             "type": "note"
         },
         {
@@ -921,6 +927,26 @@
             "extra": [],
             "sub_notes": [
                 {
+                    "duration": 333.33333333333394,
+                    "timestamp": 11329.999999999989,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 11663.333333333323,
+                    "track": 1,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 11329.999999999989,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
                     "dtrack": 1,
                     "timestamp": 11329.999999999989,
                     "track": 4,
@@ -965,26 +991,6 @@
             ],
             "timestamp": 11329.999999999989,
             "track": 4,
-            "type": "polyline"
-        },
-        {
-            "extra": [],
-            "sub_notes": [
-                {
-                    "duration": 333.33333333333394,
-                    "timestamp": 11329.999999999989,
-                    "track": 1,
-                    "type": "hold"
-                },
-                {
-                    "dtrack": -1,
-                    "timestamp": 11663.333333333323,
-                    "track": 1,
-                    "type": "flick"
-                }
-            ],
-            "timestamp": 11329.999999999989,
-            "track": 1,
             "type": "polyline"
         },
         {
@@ -1160,17 +1166,17 @@
             "type": "note"
         },
         {
-            "extra": [],
-            "timestamp": 13996.666666666653,
-            "track": 5,
-            "type": "note"
-        },
-        {
             "duration": 333.3333333333321,
             "extra": [],
             "timestamp": 13996.666666666653,
             "track": 1,
             "type": "hold"
+        },
+        {
+            "extra": [],
+            "timestamp": 13996.666666666653,
+            "track": 5,
+            "type": "note"
         },
         {
             "extra": [],
@@ -1327,13 +1333,13 @@
         {
             "extra": [],
             "timestamp": 16496.66666666665,
-            "track": 0,
+            "track": 4,
             "type": "note"
         },
         {
             "extra": [],
             "timestamp": 16496.66666666665,
-            "track": 4,
+            "track": 0,
             "type": "note"
         },
         {
@@ -1345,13 +1351,13 @@
         {
             "extra": [],
             "timestamp": 16663.33333333332,
-            "track": 5,
+            "track": 2,
             "type": "note"
         },
         {
             "extra": [],
             "timestamp": 16663.33333333332,
-            "track": 2,
+            "track": 5,
             "type": "note"
         },
         {
@@ -1564,14 +1570,14 @@
             "duration": 333.3333333333286,
             "extra": [],
             "timestamp": 49329.99999999995,
-            "track": 5,
+            "track": 3,
             "type": "hold"
         },
         {
             "duration": 333.3333333333286,
             "extra": [],
             "timestamp": 49329.99999999995,
-            "track": 3,
+            "track": 5,
             "type": "hold"
         },
         {
@@ -1589,6 +1595,12 @@
         {
             "extra": [],
             "timestamp": 49996.66666666661,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 49996.66666666661,
             "track": 0,
             "type": "note"
         },
@@ -1600,20 +1612,8 @@
         },
         {
             "extra": [],
-            "timestamp": 49996.66666666661,
-            "track": 4,
-            "type": "note"
-        },
-        {
-            "extra": [],
             "timestamp": 50079.99999999995,
             "track": 1,
-            "type": "note"
-        },
-        {
-            "extra": [],
-            "timestamp": 50079.99999999995,
-            "track": 3,
             "type": "note"
         },
         {
@@ -1624,8 +1624,14 @@
         },
         {
             "extra": [],
+            "timestamp": 50079.99999999995,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
             "timestamp": 50163.33333333328,
-            "track": 0,
+            "track": 2,
             "type": "note"
         },
         {
@@ -1637,7 +1643,7 @@
         {
             "extra": [],
             "timestamp": 50163.33333333328,
-            "track": 2,
+            "track": 0,
             "type": "note"
         },
         {
@@ -1679,19 +1685,25 @@
         {
             "extra": [],
             "timestamp": 51163.33333333328,
-            "track": 5,
-            "type": "note"
-        },
-        {
-            "extra": [],
-            "timestamp": 51163.33333333328,
             "track": 3,
             "type": "note"
         },
         {
             "extra": [],
             "timestamp": 51163.33333333328,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51163.33333333328,
             "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 51246.66666666661,
+            "track": 4,
             "type": "note"
         },
         {
@@ -1704,12 +1716,6 @@
             "extra": [],
             "timestamp": 51246.66666666661,
             "track": 0,
-            "type": "note"
-        },
-        {
-            "extra": [],
-            "timestamp": 51246.66666666661,
-            "track": 4,
             "type": "note"
         },
         {
@@ -1745,13 +1751,13 @@
         {
             "extra": [],
             "timestamp": 51496.66666666661,
-            "track": 3,
+            "track": 5,
             "type": "note"
         },
         {
             "extra": [],
             "timestamp": 51496.66666666661,
-            "track": 5,
+            "track": 3,
             "type": "note"
         },
         {
@@ -1762,8 +1768,645 @@
         },
         {
             "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666714,
+                    "timestamp": 51663.33333333328,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 51829.99999999995,
+                    "track": 5,
+                    "type": "flick"
+                }
+            ],
             "timestamp": 51663.33333333328,
             "track": 5,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": -1,
+                    "timestamp": 51829.99999999995,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 51829.99999999995,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 51996.66666666661,
+                    "track": 0,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 51829.99999999995,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "dtrack": 1,
+            "extra": [],
+            "timestamp": 51996.66666666661,
+            "track": 4,
+            "type": "flick"
+        },
+        {
+            "extra": [],
+            "timestamp": 52079.99999999994,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 52163.33333333328,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 52246.66666666661,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666714,
+                    "timestamp": 52329.99999999994,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 52496.66666666661,
+                    "track": 0,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 52329.99999999994,
+            "track": 0,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": 1,
+                    "timestamp": 52496.66666666661,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 52496.66666666661,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 52663.33333333328,
+                    "track": 5,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 52496.66666666661,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 52663.33333333328,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 52746.66666666661,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 52829.99999999994,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 52913.33333333328,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 52996.66666666661,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 53163.33333333328,
+                    "track": 4,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 52996.66666666661,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": 1,
+                    "timestamp": 53163.33333333328,
+                    "track": 0,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 53163.33333333328,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 53329.99999999994,
+                    "track": 1,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 53163.33333333328,
+            "track": 0,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 53329.99999999994,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 53413.33333333328,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 53496.66666666661,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 53579.99999999994,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 53663.33333333328,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 53829.99999999994,
+                    "track": 5,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 53663.33333333328,
+            "track": 5,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666714,
+                    "timestamp": 53829.99999999994,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 53996.66666666661,
+                    "track": 0,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 53829.99999999994,
+            "track": 0,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 83.3333333333286,
+                    "timestamp": 53996.66666666661,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 54079.99999999994,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.3333333333357,
+                    "timestamp": 54079.99999999994,
+                    "track": 3,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 54163.33333333328,
+                    "track": 3,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 54163.33333333328,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 54329.99999999994,
+                    "track": 4,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 53996.66666666661,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 54163.33333333328,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 83.3333333333357,
+                    "timestamp": 54329.99999999994,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 54413.33333333328,
+                    "track": 2,
+                    "type": "flick"
+                },
+                {
+                    "duration": 83.3333333333286,
+                    "timestamp": 54413.33333333328,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 54496.666666666606,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666714,
+                    "timestamp": 54496.666666666606,
+                    "track": 2,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 54663.33333333328,
+                    "track": 2,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 54329.99999999994,
+            "track": 2,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 54496.666666666606,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 54663.33333333328,
+            "track": 5,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 54746.666666666606,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 54829.99999999994,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 54913.33333333328,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666714,
+                    "timestamp": 54996.666666666606,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 55163.33333333328,
+                    "track": 0,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 54996.666666666606,
+            "track": 0,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": 1,
+                    "timestamp": 55163.33333333328,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 55163.33333333328,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 55329.99999999994,
+                    "track": 5,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 55163.33333333328,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 55329.99999999994,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 55413.33333333328,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 55496.666666666606,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 55579.99999999994,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 55663.33333333328,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 55829.99999999994,
+                    "track": 5,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 55663.33333333328,
+            "track": 5,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": -1,
+                    "timestamp": 55829.99999999994,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 55829.99999999994,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 55996.666666666606,
+                    "track": 0,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 55829.99999999994,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666714,
+                    "timestamp": 55996.666666666606,
+                    "track": 4,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 56163.33333333328,
+                    "track": 4,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 55996.666666666606,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 56079.99999999994,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 56163.33333333328,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 56246.666666666606,
+            "track": 2,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "duration": 166.6666666666643,
+                    "timestamp": 56329.99999999994,
+                    "track": 1,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 56496.666666666606,
+                    "track": 1,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 56329.99999999994,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 56413.33333333327,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 56496.666666666606,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 56579.99999999994,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": 1,
+                    "timestamp": 56663.33333333327,
+                    "track": 4,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666714,
+                    "timestamp": 56663.33333333327,
+                    "track": 5,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": -1,
+                    "timestamp": 56829.99999999994,
+                    "track": 5,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 56663.33333333327,
+            "track": 4,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "sub_notes": [
+                {
+                    "dtrack": -1,
+                    "timestamp": 56663.33333333327,
+                    "track": 1,
+                    "type": "flick"
+                },
+                {
+                    "duration": 166.6666666666714,
+                    "timestamp": 56663.33333333327,
+                    "track": 0,
+                    "type": "hold"
+                },
+                {
+                    "dtrack": 1,
+                    "timestamp": 56829.99999999994,
+                    "track": 0,
+                    "type": "flick"
+                }
+            ],
+            "timestamp": 56663.33333333327,
+            "track": 1,
+            "type": "polyline"
+        },
+        {
+            "extra": [],
+            "timestamp": 56996.666666666606,
+            "track": 1,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 56996.666666666606,
+            "track": 4,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 57163.33333333327,
+            "track": 3,
+            "type": "note"
+        },
+        {
+            "extra": [],
+            "timestamp": 57163.33333333327,
+            "track": 2,
             "type": "note"
         }
     ],
